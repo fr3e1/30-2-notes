@@ -1,0 +1,1 @@
+an expression of who an individual is and what is important to that individual

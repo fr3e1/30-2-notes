@@ -1,0 +1,1 @@
+a principle, philosophy, or code that defines what is important or desirable

@@ -1,0 +1,1 @@
+ - any point where the graph of a function changes from increasing to decreasing or from decreasing to increasing

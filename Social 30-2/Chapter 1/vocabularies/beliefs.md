@@ -1,0 +1,1 @@
+what an individual accepts as being true

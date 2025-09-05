@@ -1,0 +1,1 @@
+* mathematical expression that consists of variables and coefficients, combined using addition, subtraction, and multiplication, with non-negative integer exponents. Examples include expressions like x2−4x+7 or 3x+2.
