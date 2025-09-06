@@ -57,14 +57,14 @@ Define "[[Ideology]]" in your own words:
 * Human beings can be perfected
 
 #### Culture
-* This combination of beliefs, customs, and social behaviours of a particular group
+* This combination of [[beliefs]], customs, and social behaviours of a particular group
 
 #### Language
-* How people use words to communicate with one another. A common language often unites people and shape identity
+* How people use words to communicate with one another. A common language often unites people and shape [[identity]]
 * think about how your life would be different if you could not communicate with your peers, family or teachers!
 
 #### Religion and Spirituality
-* Collectively held beliefs and practices, linked to social groups or institutions that center on the worship of Gods or God
+* Collectively held [[beliefs]] and practices, linked to social groups or institutions that [[center]] on the worship of Gods or God
 * For example: Islam, Hinduism, Christianity
 
 #### Environment and Relationship to the Land
@@ -76,12 +76,12 @@ Define "[[Ideology]]" in your own words:
 	* Worldviews regarding land
 
 #### Gender
-* The way people understand gender will affect their beliefs and values. It is possible to see gender as a fluid or static thing
+* The way people understand gender will affect their [[beliefs]] and [[Values]]. It is possible to see gender as a fluid or static thing
 * This also refers to gender roles in society. Varying around the world.... Are men and women equal?
 
 #### Media
 * The tools used to pass along information
-* Media influences our beliefs & values
+* Media influences our [[beliefs]] & [[Values]]
 * Media effects:
 	* Body image
 	* General knowledge
@@ -89,7 +89,7 @@ Define "[[Ideology]]" in your own words:
 	* Consumer choices
 
 #### [[Ideology]]
-* How you act on your beliefs and values can reflect your ideology... 
+* How you act on your [[beliefs]] and [[Values]] can reflect your [[Ideology]]... 
 	* Are you an individualist? 
 	* Are you a collectivist?
 	* Are you a mix of both?
@@ -101,15 +101,15 @@ Define "[[Ideology]]" in your own words:
 
 ## there are four main categorizations of ideologies:
 * ### Nation
-	* A recognized country or a group with a common culture... think back to grade 11. A nation's ideology is focused on:
+	* A recognized country or a group with a common culture... think back to grade 11. A nation's [[Ideology]] is focused on:
 		* sovereignty
 		* self-preservation
 		* citizenship
-		* identity
+		* [[identity]]
 		* citizen participation
 		* rights of citizens
 * ### Religion
-	* These beliefs often answer questions about human nature, the way the world is, and how the world should be. As well, there are many nations governed by religious doctrine, for example: Iran
+	* These [[beliefs]] often answer questions about human nature, the way the world is, and how the world should be. As well, there are many nations governed by religious doctrine, for example: Iran
 * ### Class
 	* How society is structured in terms of social standing and social classes
 * ### relationship to land & the environment
