@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/graph.json",
-                "bFile": ".obsidian/graph.json",
+                "aFile": "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
+                "bFile": "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: graph.json"
+              "title": "Diff: Chapter 5 page 8,9,10,11"
             }
           }
         ]
@@ -215,11 +215,11 @@
       }
     ]
   },
-  "active": "1455fe0fe9170ad2",
+  "active": "694ffb81cbd95138",
   "lastOpenFiles": [
-    "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
     "Math 30-2/Chapter 5/Booklet.pdf",
-    "quadratic formula.md",
+    "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
+    "Math 30-2/Chapter 5/vocabulary/quadratic formula.md",
     "Math 30-2/Chapter 5/vocabulary/Constant term.md",
     "Math 30-2/Chapter 5/vocabulary/y-intercept.md",
     "Math 30-2/Chapter 5/vocabulary/Leading Coefficient.md",
