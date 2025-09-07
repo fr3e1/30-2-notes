@@ -11,10 +11,14 @@
             "id": "1455fe0fe9170ad2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/graph.json",
+                "bFile": ".obsidian/graph.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: graph.json"
             }
           }
         ]
@@ -174,17 +178,62 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
+  "floating": {
+    "id": "2ece3398845896e3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a6698f0e5460b5c8",
+        "type": "window",
+        "children": [
+          {
+            "id": "7a54e148a440cd92",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c5bbbdab52044115",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Math 30-2/Chapter 5/Booklet.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Booklet"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 960,
+        "y": 0,
+        "width": 960,
+        "height": 528,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "1455fe0fe9170ad2",
   "lastOpenFiles": [
+    "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
+    "Math 30-2/Chapter 5/Booklet.pdf",
+    "quadratic formula.md",
+    "Math 30-2/Chapter 5/vocabulary/Constant term.md",
+    "Math 30-2/Chapter 5/vocabulary/y-intercept.md",
+    "Math 30-2/Chapter 5/vocabulary/Leading Coefficient.md",
+    "Math 30-2/Chapter 5/vocabulary/degree.md",
     "Math 30-2/Chapter 5/vocabulary/Domain.md",
-    "Social 30-2/Chapter 1/vocabularies/Values.md",
+    "Math 30-2/Chapter 5/vocabulary/end behaviour.md",
+    "Math 30-2/Chapter 5/vocabulary/Polynomial.md",
+    "Math 30-2/Chapter 5/vocabulary/Polynomial function.md",
     "Math 30-2/Chapter 5/vocabulary/Range.md",
+    "Social 30-2/Chapter 1/vocabularies/Values.md",
     "Math 30-2/Chapter 5/vocabulary/x-intercept.md",
     "Math 30-2/Chapter 5/Chapter 5.md",
     "Math 30-2/Chapter 5/5.1/Chapter 5.1.md",
-    "Math 30-2/Chapter 5/Booklet.pdf",
     "Math 30-2/Chapter 5/vocabulary/Vocabularies.md",
-    "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
     "Math 30-2/Chapter 5/homework/Homeworks.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 3.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 5.md",
