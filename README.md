@@ -14,29 +14,17 @@ You are free to edit my notes and fork it for others to check out and use, I do 
 
 ## Step 1: Download Obsidian 
 
-### Windows
-1. Go to [Obsidian's official site](https://obsidian.md).
-2. Download the **Windows Installer (.exe)**.
-3. Run the installer and follow the prompts.
-4. Open Obsidian from the Start Menu.
-
 ### macOS
 1. Visit [Obsidian's download page](https://obsidian.md).
 2. Download the **macOS Installer (.dmg)**.
 3. Open the `.dmg` file and drag **Obsidian.app** into Applications.
 4. Launch Obsidian from Applications.
 
-### Mobile
-### iOS (iPhone/iPad)
-1. Open the App Store.
-2. Search for Obsidian.
-3. Tap Get to install.
-4. Open Obsidian from your home screen.
-### Android
-1. Open the Google Play Store.
-2. Search for Obsidian.
-3. Tap Install.
-4. Launch Obsidian from your app drawer.
+### Windows
+1. Go to [Obsidian's official site](https://obsidian.md).
+2. Download the **Windows Installer (.exe)**.
+3. Run the installer and follow the prompts.
+4. Open Obsidian from the Start Menu.
 
 ### Linux
 #### Option 1: AppImage
@@ -61,3 +49,26 @@ You are free to edit my notes and fork it for others to check out and use, I do 
   sudo dnf install obsidian*.rpm
   ```
 ## Step 2: accessing the notes through obsidian
+
+
+## macOS
+1. Open **Obsidian**.
+2. On the vault screen, click **Open folder as vault**.
+3. Navigate to `~/Documents/30-2-notes` (or wherever you cloned it).
+4. Select the folder → vault is ready.
+
+---
+
+## Windows
+1. Open **Obsidian**.
+2. On the vault screen, click **Open folder as vault**.
+3. Go to `C:\Users\<YourName>\Documents\30-2-notes` (or the folder where you cloned it).
+4. Select the folder → vault is ready.
+
+---
+
+## Linux
+1. Open **Obsidian**.
+2. On the vault screen, click **Open folder as vault**.
+3. Navigate to `~/Documents/30-2-notes` (or your chosen clone location).
+4. Select the folder → vault is ready.

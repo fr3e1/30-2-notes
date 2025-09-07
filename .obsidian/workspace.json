@@ -11,14 +11,14 @@
             "id": "1455fe0fe9170ad2",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
-                "bFile": "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Chapter 5 page 8,9,10,11"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -112,11 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -140,12 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of README"
             }
           },
           {
@@ -215,9 +217,10 @@
       }
     ]
   },
-  "active": "694ffb81cbd95138",
+  "active": "1455fe0fe9170ad2",
   "lastOpenFiles": [
     "Math 30-2/Chapter 5/Booklet.pdf",
+    "README.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
     "Math 30-2/Chapter 5/vocabulary/quadratic formula.md",
     "Math 30-2/Chapter 5/vocabulary/Constant term.md",
