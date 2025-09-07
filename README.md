@@ -48,7 +48,11 @@ You are free to edit my notes and fork it for others to check out and use, I do 
   ```bash
   sudo dnf install obsidian*.rpm
   ```
-## Step 2: accessing the notes through obsidian
+
+## Step 2: getting the notes
+### TODO: need to write
+
+## Step 3: accessing the notes through obsidian
 
 
 ## macOS
@@ -57,16 +61,11 @@ You are free to edit my notes and fork it for others to check out and use, I do 
 3. Navigate to `~/Documents/30-2-notes` (or wherever you cloned it).
 4. Select the folder → vault is ready.
 
----
-
 ## Windows
 1. Open **Obsidian**.
 2. On the vault screen, click **Open folder as vault**.
 3. Go to `C:\Users\<YourName>\Documents\30-2-notes` (or the folder where you cloned it).
 4. Select the folder → vault is ready.
-
----
-
 ## Linux
 1. Open **Obsidian**.
 2. On the vault screen, click **Open folder as vault**.
