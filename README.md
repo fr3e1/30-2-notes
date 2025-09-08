@@ -7,10 +7,14 @@
 * You benefit on using pre-written notes
 * You use obsidian
 
-## Just because I wrote it does not mean it can be changed
+## Why I do this and why you should too
+ I believe in free and easy to access notes that is not locked behind a paywall, restricted access, or an account requirement. 
+ Education should be free and easily accessable by many students worldwide. If we all do our part in publishing our notes and school material, we will be able to help at least one person in becoming more successful, then it was worth all the effort.
+
+## Just because I wrote it does not mean it cannot be changed
 You are free to edit my notes and fork it for others to check out and use, I do not mind at all!
 
-# How to use 
+# How to use efficiently
 
 ## Step 1: Download Obsidian 
 
