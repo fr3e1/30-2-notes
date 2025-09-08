@@ -1,4 +1,4 @@
-# Introduction to Ideology, Beliefs, and Values
+	# Introduction to Ideology, Beliefs, and Values
 
 Define "[[Ideology]]" in your own words:
 * way of thinking, [[beliefs]]
@@ -114,3 +114,11 @@ Define "[[Ideology]]" in your own words:
 	* How society is structured in terms of social standing and social classes
 * ### relationship to land & the environment
 	* How we see the earth, land and its value for the progression of our nation
+
+## beliefs and values - Moral Dilemmas
+### A dilemma is a choice between two unappealing options, but you have to make a decision.
+
+* Trolley car problem: sacrifice one to save four or sacrifice four to save one by not doing anything
+	personal choice: sacrifice one to save four. Reason: 3 less casualties
+* Trolley car problem 2: 1 relative or 4 strangers
+	personal choice: 1 relative. Reason: 4 lives saved, one casualty
