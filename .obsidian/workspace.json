@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Chapter 5 page 8,9,10,11"
             }
           }
         ]
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Math 30-2/Chapter 5/Booklet.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Booklet"
             }
           },
           {
@@ -141,13 +141,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Math 30-2/Chapter 5/Booklet.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Booklet"
             }
           },
           {
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +220,10 @@
   "active": "1455fe0fe9170ad2",
   "lastOpenFiles": [
     "Math 30-2/Chapter 5/Booklet.pdf",
-    "README.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
+    "Math 30-2/Chapter 5/homework/Chapter 5 page 5.md",
+    "Math 30-2/Chapter 5/homework/Homeworks.md",
+    "README.md",
     "Math 30-2/Chapter 5/vocabulary/quadratic formula.md",
     "Math 30-2/Chapter 5/vocabulary/Constant term.md",
     "Math 30-2/Chapter 5/vocabulary/y-intercept.md",
@@ -237,9 +239,7 @@
     "Math 30-2/Chapter 5/Chapter 5.md",
     "Math 30-2/Chapter 5/5.1/Chapter 5.1.md",
     "Math 30-2/Chapter 5/vocabulary/Vocabularies.md",
-    "Math 30-2/Chapter 5/homework/Homeworks.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 3.md",
-    "Math 30-2/Chapter 5/homework/Chapter 5 page 5.md",
     "Math 30-2/Chapter 5/Booklet-KEY.pdf"
   ]
 }
