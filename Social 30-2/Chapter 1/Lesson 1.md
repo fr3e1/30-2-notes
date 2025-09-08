@@ -119,6 +119,23 @@ Define "[[Ideology]]" in your own words:
 ### A dilemma is a choice between two unappealing options, but you have to make a decision.
 
 * Trolley car problem: sacrifice one to save four or sacrifice four to save one by not doing anything
-	personal choice: sacrifice one to save four. Reason: 3 less casualties
+	personal choice: sacrifice one to save four. 
+	Reason: 3 less casualties
 * Trolley car problem 2: 1 relative or 4 strangers
-	personal choice: 1 relative. Reason: 4 lives saved, one casualty
+	personal choice: 1 relative. 
+	Reason: 4 lives saved, one casualty
+	
+* Reflection: corruption caused by genetic connection should not determine my decisions on what is morally right or wrong
+
+* Car story problem 2: push big person to save 4 people?
+	personal choice: push big person to save 4 people. 
+	Reason: one casualty is better than four
+	
+* Reflection: directly and indirectly killing people can have a significant impact in a person's decision making. Personally, it does not make a difference as its still murder
+
+## To what extent should we embrace an ideology?
+### Statement by Trump: 
+##### "... not since medieval times have people seen what's going on. I would bring back waterboarding and I'd bring back a hell of a lot worse than waterboarding."
+
+* Questionable morality
+* Used for gathering information from someone
