@@ -1,5 +1,7 @@
 
 ## 1.
-a) domain restriction represents the max volume of the box (considering contents inside are within the max length of box)
+a) 
+if x = 0 or x = 5, volume will be 0
+if x < 
 
 b) 
