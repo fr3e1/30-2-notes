@@ -61,6 +61,35 @@
 ### Is video 1 political or economic? Explain
 Video 1: [[2 SS 30-2 Chapter 1 Notes.pdf#page=48&annotation=annot_p47_1|2 SS 30-2 Chapter 1 Notes, page 48]]
 
+Economic
 
 ### Is video 2 political or economic? Explain
 [[2 SS 30-2 Chapter 1 Notes.pdf#page=48&annotation=annot_p47_1|2 SS 30-2 Chapter 1 Notes, page 48]]
+
+Political
+
+## Ban big sodas? Nanny state amok in Bloomberg's NY
+
+#### Nanny state:
+* A state taking care of its individuals
+* Left side of the spectrum
+
+##### “An issue is a question or situation that requires people to make a choice or decision An issue is a question that involves responsible action. Does the concern about large sodas qualify as an Issue? Explain.
+
+Yes, it qualifies as an issue as it requires a decision to be made for the health and safety for the people of NY. This issue has pros and cons of whichever option is chosen - ban big sodas or not. 
+
+##### Which perspective on this issue would you associate with individualism? 
+
+Do not ban big sodas - let people take care of themselves and let them decide on their own what is good for their health. People have the freedom to their own body, and they can choose to buy and drink a soda that is over 16oz.
+
+##### Which perspective on this issue would you associate with collectivism? 
+
+Ban the big sodas - people should be taken care of and if it means banning big sodas to make your people more healthy, it should be done. 
+
+##### What is your opinion about limiting the size of soft drinks? Explain why? 
+
+Personally, I think banning big sodas would be a huge waste of time and effort. Buying big sodas is not a huge enough issue for the government to care much about our own health. Policing this ban would also waste officer's times and efforts, slowing them down. Our body, our choice.
+
+##### Look at the chart on the top of page 9 in your text book and consider the information we’ve looked at: Which side do you find more appealing the collectivist or individualist? Justify your answer. 
+
+Personally I find them both equally appealing. Although having individual rights, I think we could also help out each other or get help from the government to ensure everyone has an equal chance in life as not everyone is fully capable of being completely individual.

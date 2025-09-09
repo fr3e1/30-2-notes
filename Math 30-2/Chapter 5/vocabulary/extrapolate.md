@@ -1,0 +1,1 @@
+The process used to estimate a value outside the domain of a set of data.

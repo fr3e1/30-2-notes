@@ -12,3 +12,10 @@
 [[Standard form]]
 [[x-intercept]]
 [[y-intercept]] 
+
+### 5.3
+[[Line of best fit]]
+[[Curve of best fit]]
+[[Regression equation]]
+[[interpolate]]
+[[extrapolate]]

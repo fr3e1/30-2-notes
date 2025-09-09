@@ -1,0 +1,1 @@
+The process used to estimate a value within the domain of a set of data, based on a trend.

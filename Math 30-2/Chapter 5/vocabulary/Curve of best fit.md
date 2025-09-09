@@ -1,0 +1,1 @@
+A curve that best approximates the trend of a scatter plot. 

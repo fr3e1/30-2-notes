@@ -3,7 +3,7 @@
 #### a) 
 if x = 0 or x = 5, volume will be 0
 if x < 0 or x > 5, volume will be negative
-if 0 < x < 5, for the volume to exis and be positive
+if 0 < x < 5, for the volume to exist and be positive
 
 #### b) 
 y1 = x(10-2x)(20-2x)

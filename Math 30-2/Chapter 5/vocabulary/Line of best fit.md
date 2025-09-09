@@ -1,0 +1,1 @@
+A straight line that best approximates the trend in a scatter plot.
