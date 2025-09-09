@@ -93,3 +93,30 @@ Personally, I think banning big sodas would be a huge waste of time and effort. 
 ##### Look at the chart on the top of page 9 in your text book and consider the information we’ve looked at: Which side do you find more appealing the collectivist or individualist? Justify your answer. 
 
 Personally I find them both equally appealing. Although having individual rights, I think we could also help out each other or get help from the government to ensure everyone has an equal chance in life as not everyone is fully capable of being completely individual.
+
+## Thinkers and Spectrums
+
+![[Pasted image 20250909135656.png]]
+Communism -- Socialism -- center -- Conservatism -- Fascism
+
+radical: blowing it up and rebuilding
+reactionary: going back to traditions 
+
+### Human nature
+* Rousseau
+	* Humans are inherently good, but corrupted by societal influences (ex. ownership of land, private properties)
+	* people had lost compassion for one another, become selfish, and based their happiness on the opinions of others
+	* strip humans of all aspects caused by societal influence
+	* wants humans to go back to characteristics that were universal and unchanging - the ones that made people good and equal
+* Locke
+	* believes people are social and rational
+	* believes in democracy and in a positive view
+	* People are born as blank slates without inherent knowledge or abilities
+	* Believes governments exist only to protect life, liberty, and prosperity, which is why people give up their natural state of freedom to be part of a civil society
+* Hobbes
+	* believed that human nature is characterized by fear, violence, and dangerous self-interest
+	* extreme individualism where people only look out for themselves and hurt anyone who gets in their way
+	* believes its dangerous to allow people to be free and do as they wish
+	* we all need more security than freedom
+
+
