@@ -146,7 +146,7 @@ Nature of society/Government: Government needs to protect the public
 Role of Citizen/Government:
 
 
-## Spectrums: What is a spectrum?
+# Spectrums: What is a spectrum?
 ### Is man naturally good or naturally bad?
 Opinion: Man is naturally good, but society has corrupted man to eventually become bad.  
 
@@ -177,3 +177,15 @@ Opinion: Man is naturally good, but society has corrupted man to eventually beco
 * They feel that the less government there is, the better
 
 * They agree with US president Thomas Jefferson's view that "the best government governs least."
+
+## What is a reactionary
+* sitting on the far right of the ideological spectrum, reactionaries want to go back to the way things were -- the "good ol' days."
+
+* Often reactionaries are willing to use extreme methods, such as repressive use of government power, to chieve their goals 
+
+* The term "reactionary" is generally negative
+
+* Against democracy and liberalism
+
+* Often associated with Fascism, [[oligarchies]] (crony capitalism), extreme individualism
+

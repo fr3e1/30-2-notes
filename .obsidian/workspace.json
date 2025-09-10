@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Chapter 1/Lesson 2.md",
+                "file": "Social 30-2/Chapter 2/Exploring Individualism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2"
+              "title": "Exploring Individualism"
             }
           }
         ]
@@ -216,8 +216,7 @@
                   "title": "2 SS 30-2 Chapter 1 Notes"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
@@ -230,11 +229,14 @@
       }
     ]
   },
-  "active": "fa64caf7465c5280",
+  "active": "561469fd0b200f39",
   "lastOpenFiles": [
-    "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
-    "Social 30-2/Chapter 1/Lesson 2.md",
     "Social 30-2/Chapter 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
+    "Social 30-2/Chapter 2/Exploring Individualism.md",
+    "Social 30-2/Chapter 1/Lesson 2.md",
+    "Social 30-2/Chapter 2",
+    "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
+    "Social 30-2/Chapter 1/vocabularies/oligarchies.md",
     "Social 30-2/Pre-Chapter 1.md",
     "Social 30-2/Chapter 1/Lesson 1.md",
     "Social 30-2/Chapter 1/vocabularies/collectivist.md",
@@ -264,8 +266,6 @@
     "Math 30-2/Chapter 5/vocabulary/x-intercept.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 8,9,10,11.md",
     "Math 30-2/Chapter 5/homework/Chapter 5 page 5.md",
-    "README.md",
-    "Math 30-2/Chapter 5/vocabulary/quadratic formula.md",
-    "Math 30-2/Chapter 5/vocabulary/Constant term.md"
+    "README.md"
   ]
 }

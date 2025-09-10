@@ -1,0 +1,1 @@
+Government by a few, especially by a small faction of persons or families
