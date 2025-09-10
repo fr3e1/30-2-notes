@@ -3,11 +3,11 @@
 
 [[Curve of best fit]] - A curve that best approximates the trend of a scatter plot.
 
-[[Regression equation]] - Equation of the line or curve of best fit that results from a statistical analysis of data.
+[[Regression equation]] - Equation of the line or [[Curve of best fit]] that results from a statistical analysis of data.
 
-[[interpolate]] - The process used to estimate a value within the domain of a set of data, based on a trend.
+[[interpolate]] - The process used to estimate a value within the [[Domain]] of a set of data, based on a trend.
 
- [[extrapolate]] - The process used to estimate a value **outside** the domain of a set of data. 
+ [[extrapolate]] - The process used to estimate a value **outside** the [[Domain]] of a set of data. 
 
 # Scenarios
 scenario 1: linear
@@ -37,13 +37,13 @@ revenue earned if 550 were sold: 11000
 how many books would need to be sold to earn 3200: 160
 
 
-Applications of Polynomial Functions
+Applications of [[Polynomial]] Functions
 
 
 ### Height of a bridge from which a rock is thrown (21)
 
 characteristic y int
-How to find constant term or calc value x=0
+How to find [[Constant term]] or calc value x=0
 Answer 8m
 
 Maximum height of the rock
@@ -61,7 +61,7 @@ characteristic intersection with y=7
 How to find y2 = 7, calc intersect
 Answer 2.41s
 
-what are the restrictions on the domain
+what are the restrictions on the [[Domain]]
 characteristic: t>=0, h>=0 
 How to find 
 Answer: D:{t|0<t<4,tER}

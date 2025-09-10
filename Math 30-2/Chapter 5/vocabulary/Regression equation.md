@@ -1,1 +1,1 @@
-Equation of the line or curve of best fit that results from a statistical analysis of data.
+Equation of the line or [[Curve of best fit]] that results from a statistical analysis of data.

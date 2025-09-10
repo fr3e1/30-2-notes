@@ -97,7 +97,7 @@ Personally I find them both equally appealing. Although having individual rights
 ## Thinkers and Spectrums
 
 ![[Pasted image 20250909135656.png]]
-Communism -- Socialism -- center -- Conservatism -- Fascism
+Communism -- Socialism -- [[center]] -- Conservatism -- Fascism
 
 radical: blowing it up and rebuilding
 reactionary: going back to traditions 
@@ -118,5 +118,32 @@ reactionary: going back to traditions
 	* extreme individualism where people only look out for themselves and hurt anyone who gets in their way
 	* believes its dangerous to allow people to be free and do as they wish
 	* we all need more security than freedom
+
+
+#### Rousseau
+Human nature: Man is inherently good, but corrupted by societal influences; [[collectivist]]; politically middle
+
+Nature of society/Government: 
+
+"Government should be..": 
+
+Role of Citizen/Government:
+#### Locke
+Human nature: Man is inherently good; [[collectivist]]; politically right
+
+Nature of society/Government:  Government wanted to benefit the public
+
+"Government should be..": 
+
+Role of Citizen/Government:
+#### Hobbes
+Human nature: Man is evil and characterized by fear, violence, and dangerous self-interest; politically right, purple
+
+Nature of society/Government: Government needs to protect the public
+
+"Government shoud be..": all powerful and cannot be overthrown
+
+Role of Citizen/Government:
+
 
 

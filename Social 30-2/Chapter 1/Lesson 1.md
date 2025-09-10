@@ -91,7 +91,7 @@ Define "[[Ideology]]" in your own words:
 #### [[Ideology]]
 * How you act on your [[beliefs]] and [[Values]] can reflect your [[Ideology]]... 
 	* Are you an individualist? 
-	* Are you a collectivist?
+	* Are you a [[collectivist]]?
 	* Are you a mix of both?
 #### Some of my [[beliefs]] and [[values]]
 * I believe censorship of media is wrong and should be prohibited

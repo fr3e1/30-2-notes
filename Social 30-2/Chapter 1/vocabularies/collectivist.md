@@ -1,0 +1,1 @@
+A person who belongs to the political left
