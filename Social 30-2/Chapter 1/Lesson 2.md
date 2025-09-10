@@ -94,7 +94,7 @@ Personally, I think banning big sodas would be a huge waste of time and effort. 
 
 Personally I find them both equally appealing. Although having individual rights, I think we could also help out each other or get help from the government to ensure everyone has an equal chance in life as not everyone is fully capable of being completely individual.
 
-## Thinkers and Spectrums
+# Thinkers and Spectrums
 
 ![[Pasted image 20250909135656.png]]
 Communism -- Socialism -- [[center]] -- Conservatism -- Fascism
@@ -146,4 +146,34 @@ Nature of society/Government: Government needs to protect the public
 Role of Citizen/Government:
 
 
+## Spectrums: What is a spectrum?
+### Is man naturally good or naturally bad?
+Opinion: Man is naturally good, but society has corrupted man to eventually become bad.  
 
+## What is a radical
+
+* Seen as being on the far left of the political spectrum, radicals call for wide sweeping rapid change in the basic structure of the political, social, or economic system. 
+
+* They may be willing to resort to extreme methods about change, including the used of violence and re revolution.
+
+* Promote extreme equality, socialism, anti-capitalist
+
+* Act on behalf of workers & poor
+
+* often equated with communism
+
+## What is a liberal
+* Liberals believe that the government should be actively involved in the promotion of social welfare of a nation's citizens
+
+* They usually call for peaceful, gradual change within the existing political system
+
+* they reject violent revolution as a way of changing the way things are, often called the status quo
+
+## What is a conservative
+* People who hold conservative ideals favor keeping things the way they are or maintaining the status quo if it is what they desire
+
+* conservatives are usually hesitant or cautious about new policies, especially if they involve government activism in some way.
+
+* They feel that the less government there is, the better
+
+* They agree with US president Thomas Jefferson's view that "the best government governs least."
