@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Chapter 1/Lesson 2.md",
+                "file": "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2"
+              "title": "Chapter 5.3"
             }
           }
         ]
@@ -185,46 +185,33 @@
     "type": "floating",
     "children": [
       {
-        "id": "28050ee5963f7837",
+        "id": "02f92275f8201ef9",
         "type": "window",
         "children": [
           {
-            "id": "df2630fa20dd72d7",
+            "id": "0ca548ee96080172",
             "type": "tabs",
             "children": [
               {
-                "id": "138b9ea3c7b0ff53",
+                "id": "d7c31b252ff9559d",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Social 30-2/Chapter 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf"
+                    "file": "Math 30-2/Chapter 5/Booklet.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "1 SS30-2 Unit 1 (Chptrs 1-3) Workbook"
-                }
-              },
-              {
-                "id": "1f06eb3a06ca1dc6",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "2 SS 30-2 Chapter 1 Notes"
+                  "title": "Booklet"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1152,
+        "x": 960,
         "y": 0,
-        "width": 768,
-        "height": 528,
+        "width": 960,
+        "height": 1056,
         "maximize": false,
         "zoom": 0
       }
@@ -232,16 +219,17 @@
   },
   "active": "fa64caf7465c5280",
   "lastOpenFiles": [
-    "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
+    "Math 30-2/Chapter 5/Booklet.pdf",
+    "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
+    "Math 30-2/Chapter 5/5.2/Chapter 5.2.md",
     "Social 30-2/Chapter 1/Lesson 2.md",
-    "images/Pasted image 20250909135656.png",
     "Social 30-2/Chapter 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
+    "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
+    "images/Pasted image 20250909135656.png",
     "Untitled.md",
     "Math 30-2/Chapter 5/vocabulary/interpolate.md",
     "Math 30-2/Chapter 5/vocabulary/Line of best fit.md",
     "Social 30-2/Social 30-2.md",
-    "Math 30-2/Chapter 5/Booklet.pdf",
-    "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
     "images/1.png",
     "images/2025-09-09_12-31.png",
     "images",
@@ -252,7 +240,6 @@
     "Math 30-2/Chapter 5/vocabulary/Curve of best fit.md",
     "Math 30-2/Chapter 5/vocabulary/extrapolate.md",
     "Math 30-2/Chapter 5/vocabulary/Regression equation.md",
-    "Math 30-2/Chapter 5/5.2/Chapter 5.2.md",
     "Math 30-2/Chapter 5/5.3",
     "Math 30-2/Chapter 5/Booklet-KEY.pdf",
     "Math 30-2/Chapter 5/homework/Homeworks.md",
