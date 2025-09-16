@@ -23,12 +23,14 @@
             "id": "24a2dc20258227fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20250916142401.png"
+                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250916142401"
+              "icon": "lucide-file",
+              "title": "6 Ch3 - Cartoon Assignment"
             }
           }
         ],
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/Pasted image 20250916142401.png",
+                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250916142401"
+              "title": "Backlinks for 6 Ch3 - Cartoon Assignment"
             }
           },
           {
@@ -192,15 +194,15 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "694ffb81cbd95138",
+  "active": "24a2dc20258227fe",
   "lastOpenFiles": [
-    "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+    "Social 30-2/Chapter 2/Exploring Individualism.md",
     "images/Pasted image 20250916142401.png",
+    "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
     "images/Pasted image 20250916142027.png",
     "images/Pasted image 20250916135735.png",
     "images/Pasted image 20250916135720.png",
     "image1.md",
-    "Social 30-2/Chapter 2/Exploring Individualism.md",
     "Social 30-2/Chapter 1/Lesson 2.md",
     "Social 30-2/Chapter 1/Lesson 1.md",
     "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
