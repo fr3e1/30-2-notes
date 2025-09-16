@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
+                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 2 - Sine and Cosine graphs"
+              "title": "6 Ch3 - Cartoon Assignment"
             }
           }
         ],
@@ -107,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 6 Ch3 - Cartoon Assignment"
             }
           },
           {
@@ -173,8 +174,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,21 +193,27 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "561469fd0b200f39",
+  "active": "24a2dc20258227fe",
   "lastOpenFiles": [
+    "Pasted image 20250916142401.png",
+    "Pasted image 20250916142027.png",
+    "images/Pasted image 20250916135735.png",
+    "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+    "images/Pasted image 20250916135720.png",
+    "image1.md",
+    "Social 30-2/Chapter 2/Exploring Individualism.md",
+    "Social 30-2/Chapter 1/Lesson 2.md",
+    "Social 30-2/Chapter 1/Lesson 1.md",
+    "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
     "images/Pasted image 20250916123717.png",
-    "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
     "images/Pasted image 20250916130414.png",
     "images/Pasted image 20250916130017.png",
     "images/Pasted image 20250916130006.png",
     "images/Pasted image 20250916125842.png",
     "images/Pasted image 20250916124912.png",
     "images/Pasted image 20250916124138.png",
-    "images/Pasted image 20250916123817.png",
-    "images/Pasted image 20250916123747.png",
     "Math 30-2/Chapter 8/Periodic function.md",
-    "images/Pasted image 20250916123245.png",
     "Math 30-2/Chapter 8/Lesson 1 - Angles - Degrees and Radians.md",
     "Math 30-2/Chapter 8/Radians.md",
     "Social 30-2/Chapter 1/vocabularies/Ideology.md",
@@ -223,19 +229,14 @@
     "Social 30-2/Chapter 1/vocabularies/center.md",
     "Social 30-2/Chapter 1/vocabularies/collectivist.md",
     "Social 30-2/Chapter 1/vocabularies/identity.md",
-    "Social 30-2/Chapter 1/Lesson 2.md",
     "README.md",
     "Untitled.base",
     "Untitled.md",
-    "Social 30-2/Chapter 1/Lesson 1.md",
     "Social 30-2/Chapter 1/Pre-Chapter 1.md",
     "Social 30-2/Social 30-2.md",
     "Math 30-2/Chapter 5/5.2/Chapter 5.2.md",
     "Math 30-2/Chapter 5/vocabulary/x-intercept.md",
-    "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
     "Math 30-2/Chapter 5/Booklet.pdf",
-    "Math 30-2/Chapter 5/homework/Chapter 5 page 3.md",
-    "Math 30-2/Chapter 5/5.1/Chapter 5.1.md",
     "Social 30-2/Chapter 2",
     "images",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas",
