@@ -23,14 +23,12 @@
             "id": "24a2dc20258227fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20250916142401.png"
               },
-              "icon": "lucide-file",
-              "title": "6 Ch3 - Cartoon Assignment"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250916142401"
             }
           }
         ],
@@ -107,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+                "file": "images/Pasted image 20250916142401.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 Ch3 - Cartoon Assignment"
+              "title": "Backlinks for Pasted image 20250916142401"
             }
           },
           {
@@ -174,7 +172,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -193,12 +192,12 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "24a2dc20258227fe",
+  "active": "694ffb81cbd95138",
   "lastOpenFiles": [
-    "Pasted image 20250916142401.png",
-    "Pasted image 20250916142027.png",
-    "images/Pasted image 20250916135735.png",
     "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+    "images/Pasted image 20250916142401.png",
+    "images/Pasted image 20250916142027.png",
+    "images/Pasted image 20250916135735.png",
     "images/Pasted image 20250916135720.png",
     "image1.md",
     "Social 30-2/Chapter 2/Exploring Individualism.md",
@@ -212,7 +211,6 @@
     "images/Pasted image 20250916130006.png",
     "images/Pasted image 20250916125842.png",
     "images/Pasted image 20250916124912.png",
-    "images/Pasted image 20250916124138.png",
     "Math 30-2/Chapter 8/Periodic function.md",
     "Math 30-2/Chapter 8/Lesson 1 - Angles - Degrees and Radians.md",
     "Math 30-2/Chapter 8/Radians.md",
