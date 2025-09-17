@@ -69,18 +69,6 @@ Yes. I find this cartoon persuasive since I also believe the right wing media is
 4\. 
 ![[Pasted image 20250917132005.png]]
 
-	•	What issue is this political cartoon about?
-
-	•	What is the cartoonist’s opinion on this issue?
-
-	•	What other opinion can you imagine another person having on this issue?
-
-	•	Did you find this cartoon persuasive? Why or why not?
-
-	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
-
-5\.
-![[Pasted image 20250916142401.png]]
 
 	•	What issue is this political cartoon about?
 The issue on the political cartoon is about how stimulus checks and unemployment reliefs are causing an increase in unemployment, and businesses would not offer higher pay and better benefits. 
@@ -95,3 +83,17 @@ I believe the cartoonist's opinion on the issue is minimum wage businesses are n
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
 The cartoonist used some humour to encourage people to understand the cartoon more on a deeper level 
+
+5.![[Pasted image 20250917142312.png]]
+
+	•	What issue is this political cartoon about?
+
+	•	What is the cartoonist’s opinion on this issue?
+
+	•	What other opinion can you imagine another person having on this issue?
+
+	•	Did you find this cartoon persuasive? Why or why not?
+
+	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
+
+5\.
