@@ -43,3 +43,5 @@ domain {x|xeR}
 range {y | -1<=y<=1, yeR}
 x ints: -3pi / 2, -pi / 2, pi / 2, 3 pi / 2
 y ints: 1
+
+
