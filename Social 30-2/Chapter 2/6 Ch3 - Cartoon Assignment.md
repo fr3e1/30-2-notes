@@ -87,6 +87,7 @@ The cartoonist used some humour to encourage people to understand the cartoon mo
 5.![[Pasted image 20250917142312.png]]
 
 	•	What issue is this political cartoon about?
+- It appears to be an issue relating to senate GOPs only prioritizing tax cuts for the wealthy and not caring or even dismissing jobless benefits 
 
 	•	What is the cartoonist’s opinion on this issue?
 
