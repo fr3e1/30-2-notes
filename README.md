@@ -1,6 +1,7 @@
 # THIS README PAGE IS STILL WORK IN PROGRESS, EXPECT MISSING INSTRUCTIONS OR DATA
 
-# 30-2-notes - Personal notes for alberta core classes 
+# 30-2-notes - Personal notes for alberta core classes, updated regularly 
+
 
 ## This repository is useful to you if:
 * You are a student taking 30-2 core classes

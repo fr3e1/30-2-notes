@@ -108,8 +108,31 @@ Working class affected most:
 ### Pause and Reflect
 #### Brainstorm a list of all of your private property. How would your life be different if all private property was abolished?
 
+## Public Property in Canada
+* Formed to serve the common good 
+* What is public property here in canada?
+* crown land
+* crown corporations
+	* CBC
+	* VIA rail
+	* Canada Post
+		* if it goes down, it can cause mass disruptions
+* hospitals
+	* prioritization
+	* need to pay
+* schools
+	* hard to afford
+* roads
+* ##### What is the benefit of the government owning and managing some property in the interest of citizens?
+	* convenience in exchange for money
 
+### Pause and Reflect
+* What other collectivist based communities exist in Canada?
+* How do these communities express their collectivist values?
+* 
 
+### Privatization of Natural Resources
+#### Who owns water?
 
 
 
