@@ -67,8 +67,7 @@ Yes. I find this cartoon persuasive since I also believe the right wing media is
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
 
 4\. 
-
-![][image4]
+![[Pasted image 20250917132005.png]]
 
 	•	What issue is this political cartoon about?
 

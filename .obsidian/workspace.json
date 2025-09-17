@@ -11,30 +11,17 @@
             "id": "ffb6b2a4bd0635a7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "M30-2 Student Booklet (Ch 8) rk"
-            }
-          },
-          {
-            "id": "e0cf3b76d69a8fc9",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 8/Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations.md",
+                "file": "Social 30-2/Chapter 3/Exploring Collectivism.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations"
+              "title": "Exploring Collectivism"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,9 +181,18 @@
       "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e0cf3b76d69a8fc9",
+  "active": "ffb6b2a4bd0635a7",
   "lastOpenFiles": [
+    "collecivism.md",
+    "Social 30-2/Chapter 3/Exploring Collectivism.md",
+    "Collective.md",
+    "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+    "Social 30-2/Chapter 3",
+    "Pasted image 20250917132005.png",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
+    "image4.md",
+    "Social 30-2/Chapter 2/Exploring Individualism.md",
+    "Social 30-2/Chapter 1/Lesson 2.md",
     "Math 30-2/Chapter 8/Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations.md",
     "images/Pasted image 20250917124927.png",
     "images/Pasted image 20250917124434.png",
@@ -208,15 +204,11 @@
     "images/Pasted image 20250917122328.png",
     "images/Pasted image 20250917121700.png",
     "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
-    "images/Pasted image 20250917121140.png",
     "midline.md",
     "Math 30-2/Chapter 8/Lesson 1 - Angles - Degrees and Radians.md",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.docx",
-    "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
-    "Social 30-2/Chapter 2/Exploring Individualism.md",
     "Social 30-2/Chapter 1/vocabularies/Values.md",
     "image1.md",
-    "Social 30-2/Chapter 1/Lesson 2.md",
     "Social 30-2/Chapter 1/Lesson 1.md",
     "Math 30-2/Chapter 8/Periodic function.md",
     "Math 30-2/Chapter 8/Radians.md",
@@ -234,13 +226,9 @@
     "Social 30-2/Chapter 1/vocabularies/identity.md",
     "README.md",
     "Untitled.base",
-    "Untitled.md",
-    "Social 30-2/Chapter 1/Pre-Chapter 1.md",
-    "Social 30-2/Social 30-2.md",
     "Math 30-2/Chapter 5/Booklet.pdf",
     "Social 30-2/Chapter 2",
     "images",
-    "Math 30-2/Chapter 5/5.3/Untitled.canvas",
-    "Math 30-2/Chapter 5/5.3"
+    "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
