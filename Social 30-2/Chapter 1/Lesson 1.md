@@ -93,7 +93,7 @@ Define "[[Ideology]]" in your own words:
 	* Are you an individualist? 
 	* Are you a [[collectivist]]?
 	* Are you a mix of both?
-#### Some of my [[beliefs]] and [[values]]
+#### Some of my [[beliefs]] and [[Values]]
 * I believe censorship of media is wrong and should be prohibited
 * Core education material should be free, accessible,  and open source
 * Everyone needs a Senko-San 
