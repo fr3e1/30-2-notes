@@ -24,14 +24,13 @@ For each of the following cartoons, answer the following questions:
 	The cartoonist's opinion about the issue seems to be against the police brutality and thinks it is unsafe for african-americans to even be outside due to the risk of death by an officer. 
 
 	•	What other opinion can you imagine another person having on this issue?
+Some might say the cartoon exaggerates the dangers of police, or that not all officers are actually abusive
 
 	•	Did you find this cartoon persuasive? Why or why not?
-	
-	Yes. To fully understand the cartoon, you would have to be familiar with the situation involving George Floyd, BLM, and the police brutality related to it. Anyone who are familiar with the situation would easily recognize it as related to the BLM protests. 
+Yes, if you know about the George Floyd situation and the BLM protests, then the message is clear and says a lot about the topic
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
-	
-	The cartoonist used a reference that is near the timeline when this was relevant, which in this case was the COVID-19 situation. This can be proven by the masks and a reference to the isolations by the first speech bubble on the left frame. 
+The cartoonist used a reference that is near the timeline when this was relevant, which in this case was the COVID-19 situation. This can be proven by the masks and a reference to the isolations by the first speech bubble on the left frame. 
 
 2\.
 ![[Pasted image 20250916135735.png]]
@@ -44,12 +43,13 @@ I belive the cartoonist's opinion on the issue is through the eyes of an Ottawan
 
 
 	•	What other opinion can you imagine another person having on this issue?
+Someone from Alberta might argue the pipelines are essential for Canada's economy, not just Alberta
 
 	•	Did you find this cartoon persuasive? Why or why not?
 Yes. The appealing visuals and easy-to-understand messaging easily persuades me and gets me to be on the side of Ottawans due to Alberta basically sucking Ottawa's resources for our own gain.
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
-
+Exaggeration highlights the dependency in a humorous but critical way
 3\.
 ![[Pasted image 20250916142027.png]]
 	•	What issue is this political cartoon about?
@@ -59,13 +59,14 @@ The issue this political cartoon is about how the right wing media is easily fee
 I believe the cartoonist's opinion on the issue is MAGA is easily influenced or fed lies given by the right wing media, and how easy it is for MAGA to be tricked onto believing something that is not true.
 
 	•	What other opinion can you imagine another person having on this issue?
+MAGA supporters might say the mainstream media lies, and the right-wing media tells the truth
 
 	•	Did you find this cartoon persuasive? Why or why not?
 Yes. I find this cartoon persuasive since I also believe the right wing media is easily lying to MAGA and them easily believing it aswell. 
 
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
-
+The cartoonist used Symbolism to show the manipulation visually easy to understand 
 4\. 
 ![[Pasted image 20250917132005.png]]
 
@@ -90,10 +91,13 @@ The cartoonist used some humour to encourage people to understand the cartoon mo
 - It appears to be an issue relating to senate GOPs only prioritizing tax cuts for the wealthy and not caring or even dismissing jobless benefits 
 
 	•	What is the cartoonist’s opinion on this issue?
+The cartoonist seems to criticize the GOP senators as selfish and uncaring for the jobless, suggesting they are only doing it to protect the rich 
 
 	•	What other opinion can you imagine another person having on this issue?
+A GOP supporter might argue tax cuts actually help businesses grow and create jobs, which is better long-term than extended unemployment benefits
 
 	•	Did you find this cartoon persuasive? Why or why not?
+
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
 
