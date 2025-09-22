@@ -48,7 +48,7 @@ Someone from Alberta might argue the pipelines are essential for Canada's econom
 	•	Did you find this cartoon persuasive? Why or why not?
 Yes. The appealing visuals and easy-to-understand messaging easily persuades me and gets me to be on the side of Ottawans due to Alberta basically sucking Ottawa's resources for our own gain.
 
-	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
+f	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
 Exaggeration highlights the dependency in a humorous but critical way
 3\.
 ![[Pasted image 20250916142027.png]]
@@ -85,7 +85,8 @@ I believe the cartoonist's opinion on the issue is minimum wage businesses are n
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
 The cartoonist used some humour to encourage people to understand the cartoon more on a deeper level 
 
-5.![[Pasted image 20250917142312.png]]
+5.
+![[Pasted image 20250917142312.png]]
 
 	•	What issue is this political cartoon about?
 - It appears to be an issue relating to senate GOPs only prioritizing tax cuts for the wealthy and not caring or even dismissing jobless benefits 
@@ -100,5 +101,3 @@ A GOP supporter might argue tax cuts actually help businesses grow and create jo
 
 
 	•	Name one technique of cartooning used and explain how it contributed to the cartoon.
-
-5\.

@@ -133,19 +133,72 @@ Working class affected most:
 
 ### Privatization of Natural Resources
 #### Who owns water?
+What is going on in Bolivia?
+* The government gave water control to two companies, causing the price for water to tank up, making water expensive and harder to access by citizens
+
+The Canadian government shouldn't be able to privatize water access as the companies controlling the water will easily jack up the prices, making water more expensive and less accessible to everyone. Water is an essential human need and should not be privatized for profit, but instead should be easily accessible to everyone. 
+
+#### What is the middle ground to ownership?
+The government shouldn't control how much water people can access 
+
+### What is a cooperative
+* A co-operative is an enterprise that is owned and operated be a group of people for their mutual benefit and provides services to its members
+* 4/10 Canadians belong to a cooperative
+
+#### Can you think of co-operative examples? 
+* daycares
+* health care centers
+* stores
+* credit unions
+
+#### What are the advantages of a co-op? Disadvantages?
+#### What values are important to its members
+
+### "All I really need to know I learned in kindergarten"
+These are the things I learned
+Share everything
+play fair
+dont hit people
+put things back where you found them
+clean up your own mess
+Don't take things that aren't yours
+say you're sorry when you hurt somebody
+- Robert Fulghum
+
+### Social Expressions of Collective Responsibility
+* As mentioned in the political expression of collective responsibility, as well as having political implications, collective responsibility can also have important social implications.
+* Co-operation means to work together to accomplish common goals
+* Co-operation is an important value in collectivist thinking; when individuals put the goals of the group ahead of their personal goals and when public property is shared to some extent by everyone, people are demonstrating a social expression of collective values.
+* #### What do you do when you see bullying?
+	*  Do you step in, or turn away?
+
+Stepping in and stopping bullying is a collective responsibility.
+In 2002, the Canadian government launched a national anti-bullying public-awareness campaign
+
+* "By taking a collective stand against this behaviour in our schools and communities and working earl on, we can change things for the better. Intervening early in a positive and proactive manner holds the greatest promised for reducing bullying and preventing the escalation of future victimization and offending behaviour."
+
+* #### In what other ways is collective responsivility reflected in our society?
+* Think about the responsibilities you have as a member of a neighbourhood or community, student of a school, and citizen of a province.
 
 
+## Symbolism
+ Cartooonists use simple objects, or symbols to stand for larger concepts or ideas
 
+ After you identify the symbols in a cartoon, think about what the cartoonist intends each symbol to stand for.
 
+* #### Exaggeration
+* sometimes cartoonists overdo, or exaggerate, the physical characteristics of people or things in order to make a point. 
+When you study a cartoon, look for any characteristics that seem overdone or overblown. (facial characteristics and clothing are some of the most commonly exaggerated characteristics.) Then, try to decide what point the cartoonist was trying to make through exaggeration
 
+* #### Labeling 
+* Cartoonists often label objects or people to make it clear exactly what they stand for
+Watch out for the different labels that appear in a cartoon, and ask yourself why the cartoonist chose to label that particular person or object. Does the label make the meaning of the object more clear?
 
+* #### Analogy 
+* an analogy is a comparison between two unlike things that share some characteristics. By comparing a complex issue or situation with a more familiar one, cartoonists can help their readers see it in a different light. 
+* After you've studies a cartoon for a while, try to decide what the cartoon's main analogy is. What two situations does the cartoon compare? Once you understand the main analogy, decide if this comparison makes the cartoonist's point more clear to you
 
-
-
-
-
-
-
-
-
+* #### Irony
+* Irony is the difference between the ways things are and the way things should be, or the way things are expected to be. Cartoonists often use irony to express their opinion on an issue. 
+* when you look at a cartoon, see if you can find any irony in the situation the cartoon depicts. If you can, think about what point the irony might be intended to emphasize. Does the irony help the cartoonist express his or her opinion more effectivelyl?
 
