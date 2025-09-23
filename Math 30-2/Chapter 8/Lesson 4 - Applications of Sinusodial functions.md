@@ -100,7 +100,55 @@ d) Estimate the times of the day the depth of the water is exactly 3 metres.
 
 
 3. compare parameters a b d
+a: larger wheel has bigger radius
+b: same period for both since T=2pi / b
+d: center height is higher for the larger wheel 
+
 
 4. The function , where T is the temperature in °C and d the day of𝑇(𝑑) = 11. 5 𝑠𝑖𝑛(0. 02𝑑 − 1) + 6. 2 the year, can be used to predict the daily maximum temperature in Grande Prairie, Alberta. 
 
-a) period for the function, to the nearest day, is
+a) period for the function, to the nearest day, is 314 
+d = day of year
+P = 2pi / b
+b = 0.02
+2pi / 0.02 = 314.1592.....
+
+b) T(214) = 11.5 sin(0.02(214) - 1) + 6.2 = 4.6C
+
+ans: B, 4.6C
+
+c) T(d) > 15
+
+![[Pasted image 20250923103731.png]]
+163 - 93
+
+number of days where temp >= 15 = 70
+
+5.
+![[Pasted image 20250923105000.png]]
+a) max height of the horse is __ ft
+5
+
+b) time it takes for the horse to return to its original pos, to the nearest sec is __
+considering original starting pos is on midline...
+time it takes = 2nd midline intersect - 1st midline intersect
+2.5 - 1
+= 1.5
+
+c) average height of the horse is __ ft
+average height = midline
+midline = 2 ft
+
+6.
+![[Pasted image 20250923105138.png]]
+
+The minimum number of months, to the nearest tenth of a month, it takes for the average temperature of the town to rise from 5 ºC to 15 ºC is 
+
+x = months
+y = temp
+
+average temp = 15y int - 5y int
+
+4.3 - 3
+
+average temp of town to rise from 5 -> 15 is 1.3 months

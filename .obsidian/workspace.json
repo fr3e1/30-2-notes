@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Chapter 3/Written-Response Assignment 1.md",
+                "file": "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Written-Response Assignment 1"
+              "title": "Lesson 4 - Applications of Sinusodial functions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -182,15 +183,56 @@
       "print:Print note": false
     }
   },
-  "active": "1bf93dd5f85422e4",
+  "floating": {
+    "id": "391471b57696e422",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a759a06fa49d2e48",
+        "type": "window",
+        "children": [
+          {
+            "id": "35cb7eeca50b6e0c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "330cb3973dce9107",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "M30-2 Student Booklet (Ch 8) rk"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 960,
+        "height": 1040,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "561469fd0b200f39",
   "lastOpenFiles": [
+    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
+    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
+    "Pasted image 20250923105138.png",
+    "Pasted image 20250923105000.png",
+    "Pasted image 20250923103731.png",
+    "Social 30-2/Chapter 3/Written-Response Assignment 1.md",
     "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
     "Social 30-2/Chapter 4",
     "Social 30-2/Chapter 3/6 Ch3 - Cartoon Assignment.md",
     "Social 30-2/Chapter 3/Exploring Collectivism.md",
     "images/Pasted image 20250922123457.png",
-    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
-    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
     "images/Pasted image 20250922120450.png",
     "Math 30-2/Chapter 8/Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations.md",
     "Social 30-2/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
@@ -217,19 +259,14 @@
     "images/Pasted image 20250917132005.png",
     "Social 30-2/Chapter 1/Lesson 2.md",
     "images/Pasted image 20250917124927.png",
-    "images/Pasted image 20250917124434.png",
-    "images/Pasted image 20250917124118.png",
-    "images/Pasted image 20250917123801.png",
     "Math 30-2/Chapter 8/Lesson 1 - Angles - Degrees and Radians.md",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.docx",
     "Social 30-2/vocabularies/Values.md",
     "image1.md",
     "Math 30-2/Chapter 8/Radians.md",
-    "Social 30-2/vocabularies/Ideology.md",
     "Math 30-2/Chapter 8",
     "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
     "Math 30-2/Chapter 5/Booklet.pdf",
-    "Social 30-2/Chapter 2",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
