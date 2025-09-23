@@ -100,7 +100,7 @@ d) Estimate the times of the day the depth of the water is exactly 3 metres.
 
 
 3. compare parameters a b d
-a: larger wheel has bigger radius
+a: left has larger wheel has bigger radius
 b: same period for both since T=2pi / b
 d: center height is higher for the larger wheel 
 
