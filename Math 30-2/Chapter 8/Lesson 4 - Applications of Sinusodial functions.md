@@ -1,12 +1,12 @@
 ## Vocabulary: 
-sinusoidal function: Any periodic function whose graph has the same shape as that of or 𝑦 = 𝑠𝑖𝑛 𝑥 𝑦 = 𝑐𝑜𝑠 𝑥 
+sinusoidal function: Any [[Periodic function]] whose graph has the same shape as that of or 𝑦 = 𝑠𝑖𝑛 𝑥 𝑦 = 𝑐𝑜𝑠 𝑥 
 
 ## Analyzing a problem
 Students from Simone’s graduating class went on an exchange trip to China and rode the Star of Nanchang, one of the tallest Ferris wheels in the world. Simone graphed the sinusoidal function that represented the ride
 ![[Pasted image 20250922120450.png]]
 
 
-1. State the y-intercept. What does this value represent in context of the situation? 
+1. State the [[y-intercept]]. What does this value represent in context of the situation? 
 y = 2
 beginning of the ride, rider gets on the ferris wheel 2m above the ground
 
@@ -14,7 +14,7 @@ beginning of the ride, rider gets on the ferris wheel 2m above the ground
 160 
 max height of ferris wheel
 
-3. State the range of the graph. What does this value represent in context of the situation? 
+3. State the [[Range]] of the graph. What does this value represent in context of the situation? 
 2<=y<=160
 diameter of the ferris wheel is 158m 
 
@@ -130,14 +130,14 @@ a) max height of the horse is __ ft
 5
 
 b) time it takes for the horse to return to its original pos, to the nearest sec is __
-considering original starting pos is on midline...
-time it takes = 2nd midline intersect - 1st midline intersect
+considering original starting pos is on [[midline]]...
+time it takes = 2nd [[midline]] intersect - 1st [[midline]] intersect
 2.5 - 1
 = 1.5
 
 c) average height of the horse is __ ft
-average height = midline
-midline = 2 ft
+average height = [[midline]]
+[[midline]] = 2 ft
 
 6.
 ![[Pasted image 20250923105138.png]]

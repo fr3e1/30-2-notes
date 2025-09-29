@@ -2,7 +2,7 @@
 
 [[Collective]]: a group of people; a family, a tribe, an ethnic, cultural or linguistic group
 
-[[collecivism]] refers to when one considers the needs of a group, rather than on the needs of tan individual, in order to further the common good
+[[collecivism]] refers to when one considers the needs of a group, rather than on the needs of tan individual, in order to further the [[common good]]
 
 Collectivism emphasizes the role of human interdependence (when humans rely on each other)
 
@@ -82,7 +82,7 @@ You have been given $100 million, what would you do with it?
 ### In Canada...
 * There is not much economic equality but instead, "sharing of the wealth" comes from government funded social programs
 	* For example, Employment Insurance
-* Canadian society integrates the values of collectivism and individualization
+* Canadian society integrates the [[Values]] of collectivism and individualization
 #### Results... 
 * This made people angry
 * Lots of wealth, for few
@@ -100,7 +100,7 @@ Working class affected most:
 * his proposed solution? Stage a revolution
 
 ### Collectivist and Public Property 
-* Public Property is anything owned by the state and managed according to the best interests of society; property controlled by the state for the common good of the collective.
+* Public Property is anything owned by the state and managed according to the best interests of society; property controlled by the state for the [[common good]] of the [[Collective]].
 	* Addresses the issue of economic inequality
 	* Provides motivation; workers have a stake in the success of the business or project
 * Mark- workers profit from their own labour, therefore should collectively own factories and businesses, "Abolition of private property"
@@ -109,7 +109,7 @@ Working class affected most:
 #### Brainstorm a list of all of your private property. How would your life be different if all private property was abolished?
 
 ## Public Property in Canada
-* Formed to serve the common good 
+* Formed to serve the [[common good]] 
 * What is public property here in canada?
 * crown land
 * crown corporations
@@ -127,8 +127,8 @@ Working class affected most:
 	* convenience in exchange for money
 
 ### Pause and Reflect
-* What other collectivist based communities exist in Canada?
-* How do these communities express their collectivist values?
+* What other [[collectivist]] based communities exist in Canada?
+* How do these communities express their [[collectivist]] [[Values]]?
 * 
 
 ### Privatization of Natural Resources
@@ -166,18 +166,18 @@ say you're sorry when you hurt somebody
 - Robert Fulghum
 
 ### Social Expressions of Collective Responsibility
-* As mentioned in the political expression of collective responsibility, as well as having political implications, collective responsibility can also have important social implications.
+* As mentioned in the political expression of [[Collective]] responsibility, as well as having political implications, [[Collective]] responsibility can also have important social implications.
 * Co-operation means to work together to accomplish common goals
-* Co-operation is an important value in collectivist thinking; when individuals put the goals of the group ahead of their personal goals and when public property is shared to some extent by everyone, people are demonstrating a social expression of collective values.
+* Co-operation is an important value in [[collectivist]] thinking; when individuals put the goals of the group ahead of their personal goals and when public property is shared to some extent by everyone, people are demonstrating a social expression of [[Collective]] [[Values]].
 * #### What do you do when you see bullying?
 	*  Do you step in, or turn away?
 
-Stepping in and stopping bullying is a collective responsibility.
+Stepping in and stopping bullying is a [[Collective]] responsibility.
 In 2002, the Canadian government launched a national anti-bullying public-awareness campaign
 
-* "By taking a collective stand against this behaviour in our schools and communities and working earl on, we can change things for the better. Intervening early in a positive and proactive manner holds the greatest promised for reducing bullying and preventing the escalation of future victimization and offending behaviour."
+* "By taking a [[Collective]] stand against this behaviour in our schools and communities and working earl on, we can change things for the better. Intervening early in a positive and proactive manner holds the greatest promised for reducing bullying and preventing the escalation of future victimization and offending behaviour."
 
-* #### In what other ways is collective responsivility reflected in our society?
+* #### In what other ways is [[Collective]] responsivility reflected in our society?
 * Think about the responsibilities you have as a member of a neighbourhood or community, student of a school, and citizen of a province.
 
 

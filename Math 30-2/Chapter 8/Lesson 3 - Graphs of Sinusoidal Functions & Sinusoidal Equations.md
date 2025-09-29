@@ -14,7 +14,7 @@
 # Practice
 |                    |           |                             |                    |         |         |
 | ------------------ | --------- | --------------------------- | ------------------ | ------- | ------- |
-| Equation           | Amplitude | Equation of <br>the Midline | Range              | b-value | Period  |
+| Equation           | Amplitude | Equation of <br>the [[midline]] | [[Range]]              | b-value | Period  |
 | y=sin x            | 1         | y = 0                       | -1 <= y <= 1       | 1       |         |
 | y=4sin x+3         | 4         | y = 3                       | -1 <= y <= 7       | 1       |         |
 | y=sin (3x)-2       | 1         | y = -2                      | -3 <= y <= -1      | 3       | 2pi / 3 |

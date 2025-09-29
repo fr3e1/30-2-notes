@@ -22,25 +22,25 @@
 
 ## Vocabulary
 [[Periodic function]]
-[[midline]] - The horizontal line halfway between the max and min of a periodic function
+[[midline]] - The horizontal line halfway between the max and min of a [[Periodic function]]
 ![[Pasted image 20250916123717.png]]
-[[amptitude]] - The distance from the midline to either the maximum or minimum value of a periodic function; the amplitude is always expressed as a positive number.
+[[amptitude]] - The distance from the [[midline]] to either the maximum or minimum value of a [[Periodic function]]; the amplitude is always expressed as a positive number.
 ![[Pasted image 20250916123747.png]]
-[[period]] - the length of the interval of the domain to complete one cycle
+[[period]] - the length of the interval of the [[Domain]] to complete one cycle
 ![[Pasted image 20250916123817.png]]
 
 ## Practice
 graph y = sin 0, intercal -2pi <= 0 <= 2pi
 ![[Pasted image 20250916124912.png]]
-range: {y | -1<=y<=1, yeR}
-domain: {x|xeR}
+[[Range]]: {y | -1<=y<=1, yeR}
+[[Domain]]: {x|xeR}
 x-ints: -2pi,0 -pi,0 0,0 pi,0 2pi,0
 y-ints: 0,0
 
 Sletch the graph y = cos 0 on the interval -2pi <= 0 <= 2pi
 ![[Pasted image 20250916130414.png]]
-domain {x|xeR}
-range {y | -1<=y<=1, yeR}
+[[Domain]] {x|xeR}
+[[Range]] {y | -1<=y<=1, yeR}
 x ints: -3pi / 2, -pi / 2, pi / 2, 3 pi / 2
 y ints: 1
 

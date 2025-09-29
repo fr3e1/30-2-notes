@@ -59,7 +59,7 @@ The issue this political cartoon is about how the right wing media is easily fee
 I believe the cartoonist's opinion on the issue is MAGA is easily influenced or fed lies given by the right wing media, and how easy it is for MAGA to be tricked onto believing something that is not true.
 
 	•	What other opinion can you imagine another person having on this issue?
-MAGA supporters might say the mainstream media lies, and the right-wing media tells the truth
+MAGA supporters might say the mainstream media lies, and the [[right-wing]] media tells the truth
 
 	•	Did you find this cartoon persuasive? Why or why not?
 Yes. I find this cartoon persuasive since I also believe the right wing media is easily lying to MAGA and them easily believing it aswell. 

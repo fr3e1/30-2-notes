@@ -1,0 +1,1 @@
+an economic policy under which nations sought to increase their wealth and power by obbtaining large amounts of gold and siver by selling more goods than they bought

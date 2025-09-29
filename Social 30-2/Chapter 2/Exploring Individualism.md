@@ -11,7 +11,7 @@ Some ideologies emphasize individual [[Values]]. Below are 5 factors of individu
 Factors of Colectivism
 * Co-operation
 * Security
-* Collective Interests
+* [[Collective]] Interests
 
 ## Social Expressions of Individualism
 Modern society places a great deal of importance on the rights and freedoms of the individual. But does every individual have the same advantages and disadvantages?

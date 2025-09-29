@@ -4,18 +4,18 @@
 ## Notes
 Radial measure is an alternative way to express the size of an angle. One radian measure is approximately 60 degrees
 
-Using radians allows you to express the measure of an angle as a real number without units. 
-So, if we express the measurement of an angle in degrees,  must write the degree symbol (°)
+Using [[Radians]] allows you to express the measure of an angle as a real number without units. 
+So, if we express the measurement of an angle in degrees,  must write the [[degree]] symbol (°)
 
 Ex. 75° represents 75 degrees
-100 represents 110 radians
+100 represents 110 [[Radians]]
 
 The central angle formed by one complete revolution in a circle is 360°, or 2pi in radian measure.
 Since, 360° = 2pi, then 180° = pi
 
-converting from degrees to radians, we mult the angle by pi / 180°
+converting from degrees to [[Radians]], we mult the angle by pi / 180°
 
-ex: convert 135° to radians
+ex: convert 135° to [[Radians]]
 1.24 * (180° / pi) = 71°
 
 ## Example 1

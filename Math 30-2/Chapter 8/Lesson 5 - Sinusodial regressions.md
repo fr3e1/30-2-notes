@@ -1,6 +1,6 @@
 
 ![[Pasted image 20250923122221.png]]
-1. state the regression equation using your calc. round all vals to nearest tenth
+1. state the [[Regression equation]] using your calc. round all vals to nearest tenth
 y = a sin(bx+c) + d
 a = 13.1
 b = 0.5
@@ -8,7 +8,7 @@ c = -2.1
 d = 9.8
 
 find max:
-d (midline) + a (amp) 
+d ([[midline]]) + a (amp) 
 9.8 + 13.1
 = 22.9
 
@@ -43,7 +43,7 @@ if average increases by 2c
 d val would inc by 2
 d = 9
 d + 2 = 11
-will make midline go up
+will make [[midline]] go up
 
 ## practice
 ![[Pasted image 20250923123939.png]]
