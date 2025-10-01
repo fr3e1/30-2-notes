@@ -11,14 +11,12 @@
             "id": "1bf93dd5f85422e4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
-                "mode": "source",
-                "source": false
+                "file": "images/Pasted image 20251001124112.png"
               },
-              "icon": "lucide-file",
-              "title": "Lesson 1 - Characteristics of Exponential functions"
+              "icon": "lucide-image",
+              "title": "Pasted image 20251001124112"
             }
           }
         ]
@@ -78,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46a2886002563bee",
@@ -183,58 +180,21 @@
       "print:Print note": false
     }
   },
-  "floating": {
-    "id": "3d08ac01a90d3318",
-    "type": "floating",
-    "children": [
-      {
-        "id": "b9b91eab61276c8c",
-        "type": "window",
-        "children": [
-          {
-            "id": "4dff2ef96f59b16e",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a11ab957560b6b37",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 1400,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "1bf93dd5f85422e4",
+  "active": "694ffb81cbd95138",
   "lastOpenFiles": [
-    "Pasted image 20251001124112.png",
-    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
+    "images/Pasted image 20250929142254.png",
     "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
-    "Pasted image 20251001123922.png",
-    "Pasted image 20251001123843.png",
-    "Pasted image 20251001123220.png",
-    "Pasted image 20251001123108.png",
-    "Pasted image 20251001122517.png",
-    "Pasted image 20251001122258.png",
-    "Pasted image 20251001122248.png",
-    "Pasted image 20251001122230.png",
-    "Pasted image 20251001121703.png",
-    "Pasted image 20251001121425.png",
+    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
+    "images/Pasted image 20251001124112.png",
+    "images/Pasted image 20251001123922.png",
+    "images/Pasted image 20251001123843.png",
+    "images/Pasted image 20251001123220.png",
+    "images/Pasted image 20251001123108.png",
+    "images/Pasted image 20251001122517.png",
+    "images/Pasted image 20251001122258.png",
+    "images/Pasted image 20251001122248.png",
+    "images/Pasted image 20251001122230.png",
+    "images/Pasted image 20251001121703.png",
     "Social 30-2/Chapter 4/Chapter 4.md",
     "Math 30-2/Chapter 6",
     "Math 30-2/Chapter",
