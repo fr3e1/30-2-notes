@@ -39,6 +39,7 @@ impartiality: principle of Justice holding that decisions should be based on obj
 The sword represented authority in ancient times, and conveys the idea that justice can be swift and final
 
 right to fight
+
 # List the ways have indigenous peoples, specifically the Haudenosaunee, have contributed to the early development of liberalism
 The grand council had equal representation from each nation
 
@@ -67,6 +68,8 @@ main points:
 * max exports, min imports
 * government exercised lots of control in the economy
 
+![[Pasted image 20251001134724.png]]
+
 # Adam Smith rejected mercantilism and advocated a capitalist system. explain each of the concepts below:
 
 ### Laissez faire
@@ -75,6 +78,36 @@ A french term that means "leave alone". A laissez-faire economy is one in which 
 ### The Invisible Hand
 A metaphor inspired by Adam Smith that describes the incentives which free markets sometimes create for self-interested people to accidentally act in the public interest, even when this is not something they intended.
 
+
+He believed that the invisible hand had to move freely for this to happen to its full extent
+
+there motivation would come from self interest, greed, and competition
+
+Smith would have been against ideas such as
+* Trade embargos
+* tariffs
+* sales taxes
+* government run monopolies
+* misuse of public funds
+
+
+# ** Competition is vital to an economy, as it encourages us to become better, stronger, faster, and smarter
+
+
+## Adam Smith did not say there was no role for government. Rather Smith believed in the ideal of a limited government. According to Smith what was the appropriate role for government? 
+
+it is important to note that Smith did see a use for a limited role for the government 
+* to protect the security of individuals
+* protect private property
+* enforce laws that protected individual rights
+* maintaining public works
+
+## In the bottom left hand corner of page 104 there is a description about how wages could be set either by a workers association like a guild or a union, or simply through supply and demand. Describe how supply and demand would work to set swages. 
+There is a natural cycle to the economy
+When the economy s good they call it a boom
+When the economy is bad they call it a bust
+
+You need employees to sell a product
 
 # Origins of western democratic liberalism
 * In the 1700 and 1800 the royal families had absolute power and wealth
@@ -89,6 +122,8 @@ According to Rousseau, society should ensure civil rights and freedoms for indiv
 
 # Many people who believed in liberalism during its start up in Western europe all agreed that: 
 ![[Pasted image 20250929142254.png]]
+
+
 
 # Page 6: Questions ## 4. 
 A: [[Mercantilism]]

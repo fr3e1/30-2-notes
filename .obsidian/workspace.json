@@ -11,12 +11,14 @@
             "id": "1bf93dd5f85422e4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251001124112.png"
+                "file": "Social 30-2/Chapter 4/Chapter 4.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251001124112"
+              "icon": "lucide-file",
+              "title": "Chapter 4"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -180,12 +183,53 @@
       "print:Print note": false
     }
   },
-  "active": "694ffb81cbd95138",
+  "floating": {
+    "id": "5b435337a602ae65",
+    "type": "floating",
+    "children": [
+      {
+        "id": "431e33305fd69e25",
+        "type": "window",
+        "children": [
+          {
+            "id": "9dad7236f282a81d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe701c4367e98b3f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 Unit 2 (Chptrs 4-6) Workbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": true,
+        "zoom": 1
+      }
+    ]
+  },
+  "active": "1bf93dd5f85422e4",
   "lastOpenFiles": [
+    "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
+    "Social 30-2/Chapter 4/Chapter 4.md",
+    "Pasted image 20251001134724.png",
+    "Social 30-2/vocabularies/Mercantilism.md",
+    "images/Pasted image 20251001124112.png",
     "images/Pasted image 20250929142254.png",
     "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
     "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
-    "images/Pasted image 20251001124112.png",
     "images/Pasted image 20251001123922.png",
     "images/Pasted image 20251001123843.png",
     "images/Pasted image 20251001123220.png",
@@ -193,13 +237,8 @@
     "images/Pasted image 20251001122517.png",
     "images/Pasted image 20251001122258.png",
     "images/Pasted image 20251001122248.png",
-    "images/Pasted image 20251001122230.png",
-    "images/Pasted image 20251001121703.png",
-    "Social 30-2/Chapter 4/Chapter 4.md",
     "Math 30-2/Chapter 6",
     "Math 30-2/Chapter",
-    "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
-    "Social 30-2/vocabularies/Mercantilism.md",
     "Social 30-2/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
     "Social 30-2/Chapter 1/Pre-Chapter 1.md",
     "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
