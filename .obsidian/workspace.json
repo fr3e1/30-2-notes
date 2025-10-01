@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Chapter 4/Chapter 4.md",
+                "file": "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 4"
+              "title": "Lesson 1 - Characteristics of Exponential functions"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -183,48 +184,62 @@
     }
   },
   "floating": {
-    "id": "5251020fc8bc0759",
+    "id": "3d08ac01a90d3318",
     "type": "floating",
     "children": [
       {
-        "id": "9089ea0b7bb85485",
+        "id": "b9b91eab61276c8c",
         "type": "window",
         "children": [
           {
-            "id": "48f0344bee77f9fd",
+            "id": "4dff2ef96f59b16e",
             "type": "tabs",
             "children": [
               {
-                "id": "4373e4166281bc7b",
+                "id": "a11ab957560b6b37",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf"
+                    "file": "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "1 Unit 2 (Chptrs 4-6) Workbook"
+                  "title": "M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk"
                 }
               }
             ]
           }
         ],
         "direction": "vertical",
-        "x": 1280,
+        "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 708,
+        "height": 1400,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "694ffb81cbd95138",
+  "active": "1bf93dd5f85422e4",
   "lastOpenFiles": [
-    "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
+    "Pasted image 20251001124112.png",
+    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
+    "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
+    "Pasted image 20251001123922.png",
+    "Pasted image 20251001123843.png",
+    "Pasted image 20251001123220.png",
+    "Pasted image 20251001123108.png",
+    "Pasted image 20251001122517.png",
+    "Pasted image 20251001122258.png",
+    "Pasted image 20251001122248.png",
+    "Pasted image 20251001122230.png",
+    "Pasted image 20251001121703.png",
+    "Pasted image 20251001121425.png",
     "Social 30-2/Chapter 4/Chapter 4.md",
+    "Math 30-2/Chapter 6",
+    "Math 30-2/Chapter",
+    "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
     "Social 30-2/vocabularies/Mercantilism.md",
-    "Pasted image 20250929142254.png",
     "Social 30-2/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
     "Social 30-2/Chapter 1/Pre-Chapter 1.md",
     "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
@@ -236,16 +251,7 @@
     "Social 30-2/Chapter 1/Lesson 1.md",
     "Math 30-2/Chapter 8/Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations.md",
     "Social 30-2/Chapter 3/Exploring Collectivism.md",
-    "images/Pasted image 20250923130757.png",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
-    "images/Pasted image 20250923130301.png",
-    "images/Pasted image 20250923125716.png",
-    "images/Pasted image 20250923125543.png",
-    "images/Pasted image 20250923123939.png",
-    "images/Pasted image 20250923123427.png",
-    "images/Pasted image 20250923122221.png",
-    "images/Pasted image 20250923105138.png",
-    "images/Pasted image 20250923105000.png",
     "Social 30-2/Chapter 4",
     "Social 30-2/Chapter 3/6 Ch3 - Cartoon Assignment.md",
     "Social 30-2/Social 30-2.md",
@@ -260,12 +266,8 @@
     "image4.md",
     "Untitled.md",
     "Untitled.base",
-    "Social 30-2/vocabularies/Collective.md",
     "Social 30-2/Chapter 3",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.docx",
-    "Math 30-2/Chapter 8",
-    "Social 30-2/Chapter 1/2 SS 30-2 Chapter 1 Notes.pdf",
-    "Math 30-2/Chapter 5/Booklet.pdf",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
