@@ -1,0 +1,1 @@
+A way of organizing society into hierarchical categories based on factors like wealth, education, and occupation

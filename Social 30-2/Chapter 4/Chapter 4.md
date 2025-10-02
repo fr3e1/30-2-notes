@@ -62,7 +62,7 @@ These liberal ideas include, elected leaders, leadership based on merit, and rul
 read: liberal ideas on economic systems pg. 102-105
 # Give the definition of mercantilism and provide a couple of the main points
 
-mercantilism: an economic system, common in Europe from the 1500s to the 1700s, based on the beliefs that a country should export more goods than it imports, accumulate wealth in gold and silver, and protect its economy by taxing setting quotas and imports. In this system, a government exercised much control over the economy of its country, through corporations, trading company monopolies, and regulation of production
+[[Mercantilism]]: an economic system, common in Europe from the 1500s to the 1700s, based on the [[beliefs]] that a country should export more goods than it imports, accumulate wealth in gold and silver, and protect its economy by taxing setting quotas and imports. In this system, a government exercised much control over the economy of its country, through corporations, trading company monopolies, and regulation of production
 
 main points: 
 * max exports, min imports
@@ -73,7 +73,7 @@ main points:
 # Adam Smith rejected mercantilism and advocated a capitalist system. explain each of the concepts below:
 
 ### Laissez faire
-A french term that means "leave alone". A laissez-faire economy is one in which government does not intervene in the free market also called laissez-faire capitalism or free-market economy; related to classical liberalism
+A french term that means "leave alone". A laissez-faire economy is one in which government does not intervene in the free market also called laissez-faire capitalism or free-market economy; related to [[Classical Liberalism]]
 
 ### The Invisible Hand
 A metaphor inspired by Adam Smith that describes the incentives which free markets sometimes create for self-interested people to accidentally act in the public interest, even when this is not something they intended.
@@ -108,6 +108,30 @@ When the economy s good they call it a boom
 When the economy is bad they call it a bust
 
 You need employees to sell a product
+
+### When demand for labour was high but the supply of workers was low what would happen to wages and why? 
+wages would increase because demand is high
+
+### When demand for labour was low but supply of workers was high what would happen to wages and why? 
+wages would decrease because demand is low
+
+[[Classical Liberalism]] is based on the writings of philosophers such as 
+* Adam Smith
+* John Locke
+
+# What were Mill’s 3 principles on government?
+* Preserve the rule of law
+* protect private property 
+* ensure the security of the individual
+
+Individuals must be free to make their own choices. They cannot be forced into a decision by law
+
+This is essential to liberalism 
+
+
+# Explain in your own words, Mill's Harm Principle
+As long as I don't hurt others, I can do whatever I want 
+free speech 
 
 # Origins of western democratic liberalism
 * In the 1700 and 1800 the royal families had absolute power and wealth
@@ -160,3 +184,22 @@ rich: controlled businesses, enjoyed wealth without physical risk
 
 poor: faced unsafe factories, long hours, dangerous machinery, and no safety protections. Injury or illness often meant losing their job
 
+
+
+# Key terms
+[[Adam Smith]]
+[[Capitalism]]
+[[Class system]]
+[[Classical Liberalism]]
+[[distribution of wealth]]
+[[Haudenosaunee Confederacy]]
+[[John Stuart Mill]]
+[[Laissez-Faire Capitalism]]
+[[Liberal Democracy ]]
+[[Liberalism]]
+[[Limited Government ]]
+[[Mercantilism]]
+Modern librealism
+monopoly
+Rule of law
+supply and demand

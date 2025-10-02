@@ -1,0 +1,1 @@
+A confederacy that helped contributed to the early development of liberalism  

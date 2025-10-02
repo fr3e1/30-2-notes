@@ -1,0 +1,1 @@
+A comparison of the wealth of various members or groups in a society. It shows one aspect of economic ineqality or economic heterogeneity

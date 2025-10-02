@@ -49,7 +49,7 @@ range of all exponential graphs of the form a(b)^x is {y|y>0,yeR}
 
 | y = 2(7)^x                                                                                                                            | y = 3(1/4)^x                                                                                                                          | y = 6(0.8)^x                                                                                                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| x-intercept: 0<br><br>y-intercept: 2<br><br>Increasing or decreasing? <br>increasing<br>Domain: {x\|xeR} <br><br>Range: {y\|y>0, yeR} | x-intercept: 0<br><br>y-intercept: 3<br><br>Increasing or decreasing? <br>decreasing<br>Domain:{x\|xeR}  <br><br>Range: {y\|y>0, yeR} | x-intercept: 0 <br><br>y-intercept: 6<br><br>Increasing or decreasing? <br>decreasing<br>Domain: {x\|xeR}  <br><br>Range:{y\|y>0, yeR} |
+| [[x-intercept]]: 0<br><br>y-intercept: 2<br><br>Increasing or decreasing? <br>increasing<br>Domain: {x\|xeR} <br><br>Range: {y\|y>0, yeR} | [[x-intercept]]: 0<br><br>y-intercept: 3<br><br>Increasing or decreasing? <br>decreasing<br>Domain:{x\|xeR}  <br><br>Range: {y\|y>0, yeR} | [[x-intercept]]: 0 <br><br>y-intercept: 6<br><br>Increasing or decreasing? <br>decreasing<br>Domain: {x\|xeR}  <br><br>Range:{y\|y>0, yeR} |
 2. 
 ![[Pasted image 20251001123843.png]]
 
