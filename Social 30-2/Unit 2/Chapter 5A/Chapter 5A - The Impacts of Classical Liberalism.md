@@ -55,11 +55,15 @@ huge wage gaps between the rich and poor were caused by business owners having c
 ## 7. What are Robber Barons
 Robber Barons represents an image of a cold and ruthless man, a wealthy entrepreneur who is greedy in his pursuit of money and who is unwilling to share his wealth with those that helped him earn it
 
+Cold, ruthless, and greedy people
+They generated great amounts on the backs of the working poor
 ## 8. Some people referred to them as "Captains of Industry". Who were Captains of Industry?
-The "Captains of Industry" is a term people used to refer to these men's (robber barons) contributions to business and industry as the foundations for the economic power of many countries today
+They were strong risk takers who were able to succeed in a ruthless world
 
 ## 9. Defile philanthropy
 The effort of inclination to increase the well-being of humankind, as by charitable aid or donations
+
+Many of these entrepreneurs gave back in large amounts to society
 
 ## 10. Do you think these people have a responsibility to be philanthropists?
 Morally, these people should be responsible for being philanthropists. But realistically, it is not their responsibility to be philanthropists as there is nothing stopping them from not becoming one
@@ -68,18 +72,39 @@ Morally, these people should be responsible for being philanthropists. But reali
 ## 11. What is Standard of Living
 A standard that is used to determine the regular or average living conditions of an average citizen
 
+measured by the amount of goods and services that can be purchased by a person
 ## 12. What is Cost of Living
 Cost of living refers to how much it costs for the average citizen to afford a living space such as a house or apartment
 
-
+Can be measured by the cost of providing the basic necessities of life; food, shelter, and clothing
 
 ## Challenges for the Working Class
 
 ### 13. For each of the sources below, make point from notes about the working conditions described:
 
 #### A. How the other half lives
+* improperly nourished
+* suffering illnesses or poisonings 
+* relying on $2 a week by a priest
+* received weekly food rations by siblings
 
 #### B. Working conditions in mines and factories
+* getting paid only around $1-3 per week
+* child labor 
+* inhumane and cruelty to workers
+* living in city slums
 
 #### C. Child labor
+
+## 14. Some people remained Classical Liberals and opposed the changes suggested by the MODERN LIBERALS. What do you think were their main arguments?
+governments shouldnt intervene as it was seen as meddling in the economy and not good for the common good
+
+## 15. List some of the government actions to improve the lives of workers
+* free universal health care
+* allow unions to negotiate better wages and working conditions
+* legislate minimum wage
+* create social programs to help the poor and unemployed
+* create safety regulations for the work place and inspectors to enforce them
+* create a pension plan for the elderly
+* have compulsory and free public education to the age of 16. This prevents child labor
 
