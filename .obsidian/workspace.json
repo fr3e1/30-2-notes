@@ -8,27 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bf93dd5f85422e4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/Pasted image 20251002124118.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251002124118"
-            }
-          },
-          {
             "id": "898aa7a2b8505779",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf"
+                "file": "Social 30-2/Unit 2/Chapter 5A/Chapter 5A - The Impacts of Classical Liberalism.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk"
+              "icon": "lucide-file",
+              "title": "Chapter 5A - The Impacts of Classical Liberalism"
             }
           }
         ]
@@ -88,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -193,27 +184,27 @@
     }
   },
   "floating": {
-    "id": "0fa3e1876006feea",
+    "id": "78a955888e39e9c3",
     "type": "floating",
     "children": [
       {
-        "id": "17418e14f5f0d019",
+        "id": "f88941d38eb32705",
         "type": "window",
         "children": [
           {
-            "id": "965d8d0de05e6a95",
+            "id": "9511116fdbc8b42f",
             "type": "tabs",
             "children": [
               {
-                "id": "b7d5100381f4bd7d",
+                "id": "8363795483fc74a4",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf"
+                    "file": "Social 30-2/Unit 2/1 Unit 2 (Chptrs 4-6) Workbook.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk"
+                  "title": "1 Unit 2 (Chptrs 4-6) Workbook"
                 }
               }
             ]
@@ -229,53 +220,53 @@
       }
     ]
   },
-  "active": "561469fd0b200f39",
+  "active": "898aa7a2b8505779",
   "lastOpenFiles": [
-    "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
+    "Social 30-2/Unit 2/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
+    "Social 30-2/Unit 2/Chapter 5A/Chapter 5A - The Impacts of Classical Liberalism.md",
+    "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
-    "images/Pasted image 20251002124118.png",
-    "images/Pasted image 20251002123945.png",
-    "images/Pasted image 20251002123606.png",
-    "images/Pasted image 20251002122202.png",
-    "images/Pasted image 20251002121537.png",
+    "images/Pasted image 20251003130601.png",
+    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
+    "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
+    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
+    "images/Pasted image 20251003124752.png",
+    "images/Pasted image 20251003123630.png",
+    "images/Pasted image 20251003123114.png",
+    "images/Pasted image 20251003122808.png",
+    "images/Pasted image 20251003122047.png",
+    "images/Pasted image 20251003120907.png",
+    "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
+    "images/Pasted image 20251002140109.png",
+    "images/Pasted image 20251002132211.png",
+    "Social 30-2/Unit 1",
+    "Social 30-2/Unit 2",
+    "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
+    "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
+    "Social 30-2/Unit 2/Chapter 5A/3 Chapter 5 Part 1.pdf",
+    "Social 30-2/Unit 2/Chapter 5A",
+    "images/Pasted image 20251002125855.png",
     "Math 30-2/Chapter 6/Exponential growth function.md",
     "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
     "Social 30-2/vocabularies/Haudenosaunee Confederacy.md",
-    "Social 30-2/Chapter 4/Chapter 4.md",
     "Social 30-2/vocabularies/distribution of wealth.md",
     "Social 30-2/vocabularies/Adam Smith.md",
     "Social 30-2/vocabularies/Class system.md",
     "Social 30-2/vocabularies/Capitalism.md",
     "Social 30-2/vocabularies/Classical Liberalism.md",
-    "Social 30-2/Chapter 4/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
-    "images/Pasted image 20251001134724.png",
     "Social 30-2/vocabularies/Mercantilism.md",
-    "images/Pasted image 20251001124112.png",
-    "images/Pasted image 20250929142254.png",
-    "images/Pasted image 20251001123922.png",
-    "images/Pasted image 20251001123843.png",
     "Math 30-2/Chapter 6",
     "Math 30-2/Chapter",
-    "Social 30-2/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
-    "Social 30-2/Chapter 1/Pre-Chapter 1.md",
-    "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
-    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
+    "Social 30-2/Unit 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
+    "Social 30-2/Unit 1/Chapter 1/Pre-Chapter 1.md",
     "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
     "Math 30-2/Chapter 8/Radians.md",
-    "Social 30-2/Chapter 2/Exploring Individualism.md",
-    "Social 30-2/Chapter 1/Lesson 2.md",
-    "Social 30-2/Chapter 1/Lesson 1.md",
+    "Social 30-2/Unit 1/Chapter 2/Exploring Individualism.md",
+    "Social 30-2/Unit 1/Chapter 1/Lesson 2.md",
+    "Social 30-2/Unit 1/Chapter 1/Lesson 1.md",
     "Math 30-2/Chapter 8/Lesson 3 - Graphs of Sinusoidal Functions & Sinusoidal Equations.md",
-    "Social 30-2/Chapter 3/Exploring Collectivism.md",
-    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
-    "Social 30-2/Chapter 4",
-    "Social 30-2/Chapter 3/6 Ch3 - Cartoon Assignment.md",
-    "Social 30-2/Social 30-2.md",
-    "Social 30-2/Chapter 1/Chapter 1.md",
-    "Math 30-2/Chapter 8/Periodic function.md",
-    "Untitled.base",
-    "Social 30-2/Chapter 3",
-    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.docx",
+    "Social 30-2/Unit 1/Chapter 3/Exploring Collectivism.md",
+    "Social 30-2/Unit 1/Chapter 3/6 Ch3 - Cartoon Assignment.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
