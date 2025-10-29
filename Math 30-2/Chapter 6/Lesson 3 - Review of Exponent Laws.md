@@ -8,3 +8,7 @@
 
 ![[Pasted image 20251003124752.png]]
 ![[Pasted image 20251003130601.png]]
+
+$$
+
+$$
