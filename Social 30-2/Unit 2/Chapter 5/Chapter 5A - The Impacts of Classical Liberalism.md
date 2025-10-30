@@ -4,7 +4,7 @@
 # Notes
 
 ## 1. Give the definition for modern liberalism
-An ideology that developed over time to address concerns with the inequality and injustices created by a capitalist society, while remaining focused on individual rights, by allowing the government to intervene. E.g. Labour laws, social programs, etc.
+An [[Ideology]] that developed over time to address concerns with the inequality and injustices created by a capitalist society, while remaining focused on individual rights, by allowing the government to intervene. E.g. Labour laws, social programs, etc.
 
 Modern liberalists started to look at the way things had been working under classic liberalism
 
@@ -97,7 +97,7 @@ Can be measured by the cost of providing the basic necessities of life; food, sh
 #### C. Child labor
 
 ## 14. Some people remained Classical Liberals and opposed the changes suggested by the MODERN LIBERALS. What do you think were their main arguments?
-governments shouldnt intervene as it was seen as meddling in the economy and not good for the common good
+governments shouldnt intervene as it was seen as meddling in the economy and not good for the [[common good]]
 
 ## 15. List some of the government actions to improve the lives of workers
 * free universal health care

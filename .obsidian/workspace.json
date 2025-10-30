@@ -8,27 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "898aa7a2b8505779",
+            "id": "1fb104cc4bd340b5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf"
+                "file": "Social 30-2/Unit 2/Chapter 5/Chapter 5B - The responses to classical liberalism.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk"
+              "icon": "lucide-file",
+              "title": "Chapter 5B - The responses to classical liberalism"
             }
           },
           {
-            "id": "13be68dc43cd517b",
+            "id": "412b28b07121e3ca",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "images/Pasted image 20251029121534.png"
+                "file": "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251029121534"
+              "icon": "lucide-file",
+              "title": "Chapter 6"
             }
           }
         ],
@@ -89,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -193,35 +198,111 @@
       "print:Print note": false
     }
   },
-  "active": "694ffb81cbd95138",
+  "floating": {
+    "id": "722fb0526a11e100",
+    "type": "floating",
+    "children": [
+      {
+        "id": "aaf836a3981a0b80",
+        "type": "window",
+        "children": [
+          {
+            "id": "a6f95df790ed2468",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "305b75bc44ee48c3",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Unit 2 (Chptrs 4-6) Workbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1400,
+        "maximize": true,
+        "zoom": 1.5
+      },
+      {
+        "id": "27ed01fa3a030008",
+        "type": "window",
+        "children": [
+          {
+            "id": "760c46d755bbe1ce",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8e38ef8e14c66fba",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6 Chapter 6"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 700,
+        "maximize": true,
+        "zoom": 1.5
+      }
+    ]
+  },
+  "active": "412b28b07121e3ca",
   "lastOpenFiles": [
-    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
-    "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
-    "images/Pasted image 20251029121534.png",
-    "images/Pasted image 20251029121340.png",
-    "images/Pasted image 20251029121114.png",
-    "images/Pasted image 20251029120935.png",
-    "Lesson 4 -.md",
-    "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
-    "Social 30-2/Unit 2/Chapter 5A/Chapter 5B - The responses to classical liberalism.md",
-    "Social 30-2/Unit 2/1 Unit 2 (Chptrs 4-6) Workbook.pdf",
-    "Social 30-2/Unit 2/Chapter 5A/Chapter 5A - The Impacts of Classical Liberalism.md",
-    "images/Pasted image 20251003130601.png",
-    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
+    "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf",
+    "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
+    "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
+    "Social 30-2/Unit 2/Chapter 5/4 Chapter 5 Part 2.pdf",
+    "images/Pasted image 20251030134527.png",
+    "Social 30-2/Unit 2/Chapter 6",
+    "Social 30-2/Unit 2/Chapter 5/Chapter 5B - The responses to classical liberalism.md",
+    "images/Pasted image 20251030134519.png",
+    "images/Pasted image 20251030134344.png",
+    "images/Pasted image 20251030134332.png",
+    "images/Pasted image 20251030134025.png",
+    "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
     "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
+    "Lesson 4 -.md",
+    "Math 30-2/Chapter 7/Leson 2 - Logarithmic Regression.md",
+    "images/Pasted image 20251030125933.png",
+    "images/Pasted image 20251030121254.png",
+    "images/Pasted image 20251030123007.png",
+    "images/Pasted image 20251030122118.png",
+    "images/Pasted image 20251030121941.png",
+    "Math 30-2/Chapter 7/M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk.pdf",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
-    "images/Pasted image 20251003124752.png",
-    "images/Pasted image 20251003123630.png",
-    "images/Pasted image 20251003123114.png",
-    "images/Pasted image 20251003122808.png",
-    "images/Pasted image 20251003122047.png",
+    "Math 30-2/Chapter 7",
+    "Social 30-2/vocabularies/Suffrage.md",
+    "Social 30-2/vocabularies/Collective.md",
+    "Social 30-2/Unit 2/Chapter 5/3 Chapter 5 Part 1.pdf",
+    "Social 30-2/Unit 2/Chapter 5/Chapter 5A - The Impacts of Classical Liberalism.md",
+    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
+    "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
+    "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
+    "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
+    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
     "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
     "Social 30-2/Unit 1",
-    "Social 30-2/Unit 2",
-    "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
     "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
-    "Social 30-2/Unit 2/Chapter 5A/3 Chapter 5 Part 1.pdf",
-    "Social 30-2/Unit 2/Chapter 5A",
     "Math 30-2/Chapter 6/Exponential growth function.md",
     "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
     "Social 30-2/vocabularies/Haudenosaunee Confederacy.md",
@@ -231,15 +312,7 @@
     "Social 30-2/vocabularies/Capitalism.md",
     "Social 30-2/vocabularies/Classical Liberalism.md",
     "Social 30-2/vocabularies/Mercantilism.md",
-    "Math 30-2/Chapter 6",
-    "Math 30-2/Chapter",
-    "Social 30-2/Unit 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
     "Social 30-2/Unit 1/Chapter 1/Pre-Chapter 1.md",
-    "Math 30-2/Chapter 8/Lesson 2 - Sine and Cosine graphs.md",
-    "Math 30-2/Chapter 8/Radians.md",
-    "Social 30-2/Unit 1/Chapter 2/Exploring Individualism.md",
-    "Social 30-2/Unit 1/Chapter 1/Lesson 2.md",
-    "Social 30-2/Unit 1/Chapter 1/Lesson 1.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }

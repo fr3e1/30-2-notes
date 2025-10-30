@@ -187,5 +187,5 @@ Opinion: Man is naturally good, but society has corrupted man to eventually beco
 
 * Against democracy and liberalism
 
-* Often associated with Fascism, [[oligarchies]] (crony capitalism), extreme individualism
+* Often associated with Fascism, [[oligarchies]] (crony [[Capitalism]]), extreme individualism
 

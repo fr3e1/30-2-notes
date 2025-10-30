@@ -1,1 +1,1 @@
-A Scottish moral philosopher that believed that a fairer distribution of wealth would only come if people had moresay in what they made, how they made it, and for what price they sold it
+A Scottish moral philosopher that believed that a fairer [[distribution of wealth]] would only come if people had moresay in what they made, how they made it, and for what price they sold it

@@ -53,7 +53,7 @@ also outlined rights and freedoms, equality rights for women
 
 The Haudenosaunee people had individual rights and freedoms centuries before the western world 
 
-It is believed by many that the Haudenosaunee Confederacy was a major influence on American and Canadian liberalism
+It is believed by many that the [[Haudenosaunee Confederacy]] was a major influence on American and Canadian liberalism
 
 These liberal ideas include, elected leaders, leadership based on merit, and rules based on a shared constitution
 
@@ -73,10 +73,10 @@ main points:
 # Adam Smith rejected mercantilism and advocated a capitalist system. explain each of the concepts below:
 
 ### Laissez faire
-A french term that means "leave alone". A laissez-faire economy is one in which government does not intervene in the free market also called laissez-faire capitalism or free-market economy; related to [[Classical Liberalism]]
+A french term that means "leave alone". A laissez-faire economy is one in which government does not intervene in the free market also called laissez-faire [[Capitalism]] or free-market economy; related to [[Classical Liberalism]]
 
 ### The Invisible Hand
-A metaphor inspired by Adam Smith that describes the incentives which free markets sometimes create for self-interested people to accidentally act in the public interest, even when this is not something they intended.
+A metaphor inspired by [[Adam Smith]] that describes the incentives which free markets sometimes create for self-interested people to accidentally act in the public interest, even when this is not something they intended.
 
 
 He believed that the invisible hand had to move freely for this to happen to its full extent
@@ -116,7 +116,7 @@ wages would increase because demand is high
 wages would decrease because demand is low
 
 [[Classical Liberalism]] is based on the writings of philosophers such as 
-* Adam Smith
+* [[Adam Smith]]
 * John Locke
 
 # What were Mill’s 3 principles on government?
