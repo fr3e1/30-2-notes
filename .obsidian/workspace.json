@@ -213,8 +213,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 1030,
-        "height": 700,
+        "width": 1280,
+        "height": 1400,
         "maximize": true,
         "zoom": 1
       },
@@ -251,7 +251,7 @@
       }
     ]
   },
-  "active": "561469fd0b200f39",
+  "active": "e12b689695e6089f",
   "lastOpenFiles": [
     "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf",
     "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
