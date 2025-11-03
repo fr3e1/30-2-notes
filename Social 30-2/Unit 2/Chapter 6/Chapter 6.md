@@ -38,4 +38,62 @@ His proposed solution: seize control from the bourgeoisie through a **revolution
 * government control of all banking through a national bank
 * government control of the means of transportation and communication
 * free education for all children in public schools
-* 
+
+## Socialism Vs. Capitalism - p. 148
+| Values of Socialism                                                                                                                       | Values of Classical Liberalism (Capitalism)                                                                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| Collective Interests: Humans should be cooperative, helpful and compassionate                                                             | Self-interest: individuals should acti in their own self-interest                                                                         |
+| Collective respomsivility: Society, through government, should be responsible for the well-being of its members                           | Individual rights/responsibilities/freedom: individuals should be responsibl e for their own rell-being                                   |
+| Economic property: The government should own major industries and run them on behalf of the people                                        | economic freedom: The economy should be determined by market forces, such as supply and demand. The government should not intervene       |
+| Co-operation: People should co-operate to achieve collective goals                                                                        | Private property: individuals should have the right to own, buy, or sell property                                                         |
+| Adherence to collective norms: People should follow rules and norms that benefit society.                                                 | Competition: Competition benefits society when people work in their own self-interest, leading to innovation, motivation and lower prices |
+| Economic equality: Government should intervene in the economy to ensure a more equitable distribution of wealth among citizens in society | rule of law: no one is above the law, and each individual is accountable to the law                                                       |
+
+## 4. You defined earlier what democratic socialism is. What are the similarities and differences of Marxism to Democratic Socialism
+| Similarities                                                                                                              | Differences                                                                                                                                  |
+| ------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| both believe in a classless society<br><br>both believe in all people sharing fairly in the wealth of the country<br><br> | their approach to change<br><br>Early social democrats believed in change without resorting to revolutions (voting, elections, etc.)<br><br> |
+
+## 5. What are some examples of democratic socialism in Canada? 
+* Public schools 
+* Student Loans 
+* Child-care initiatives
+* Canadian Pension plan
+* Universal health care
+* Minimum wage
+* Unemployment Insurance
+
+## 7. Read page 149 to answer. Some are socialist beliefs and some are classical liberal beliefs
+
+_____Men are born free and have certain rights, such as the right to life, liberty and happiness. 
+
+_____ There should be greater economic equality in society 
+
+_____ Capitalism infringes on workers rights and prevents them from being free 
+
+_____ Government should be based on the will of the majority
+
+_____ Government should protect the right of workers to be in a union and bargain collectively 
+
+_____ Society should be based on the Rule of Law.
+
+## The Great Depression and Cooperative Commonwealth Federation (CCF)
+###### 9. The great depression lasted for 10 years, from the crash in October 1929, to the beginning of World War 2 in 1939. About 25% of the workforce in both Canada and the United States were unemployed. People began to question classical liberal values of laissez faire. What types of government actions can you think of that might help in an economic crisis? How could the government help put people back to work again? 
+
+## The Great Depression
+## 10. According to your text the Great Depression was the result of:
+Lack of government regulations
+## 11. What even is seen as the kick off for the great depression?
+Black thursday, stock market crash
+
+## 12. Why did many people believe that society should move away from laissez-faire capitalism after the great depression?
+As economic standstill and mass unemployment rose dramatically in Canada,more and more Canadians began to believe that their government needed to to more sto support them
+
+## 13. What was the Regina Manifesto?
+Its an outlined document the CCF wrote
+
+## 14. What are the main points of the Regina Manifesto
+* Job creation programs
+* shelters for the jobless and homeless
+* pension programs
+* subsidized health services
