@@ -2,23 +2,23 @@
 # Key terms
 
 
-Bourgeoisie: a french word that refers to the social class that evolved in Europe during the middle ages with the development of cities and the growth in trade. Karl Marx used this word to refer to the business-owning class during the time of the Inustrial Revolution in Europe
+**Bourgeoisie**: a french word that refers to the social class that evolved in Europe during the middle ages with the development of cities and the growth in trade. Karl Marx used this word to refer to the business-owning class during the time of the Inustrial Revolution in Europe
 
-Communism: an ideology based on the belief that the oppressed working class must overcome its property-owning oppression through revolution, so that together they can work towards becoming a classless society in which property is owned by the community and all people share in the production of goods and in the benefits of production (at which point. in theory, no government is needed)
+**Communism:** an ideology based on the belief that the oppressed working class must overcome its property-owning oppression through revolution, so that together they can work towards becoming a classless society in which property is owned by the community and all people share in the production of goods and in the benefits of production (at which point. in theory, no government is needed)
 
-Democratic Socialism: a political ideology that advocates a peaceful, evolutionary transition of society from capitalism to socialism (a society in which people share fairly in its wealth) through democratic means, as opposed to the communist idea of change through violent revolution; also known as **social democracy** 
+**Democratic Socialism**: a political ideology that advocates a peaceful, evolutionary transition of society from capitalism to socialism (a society in which people share fairly in its wealth) through democratic means, as opposed to the communist idea of change through violent revolution; also known as **social democracy** 
 
-Government Intervention: actions taken by government to influence the economy (for example, setting taxation and interest rates, spending on public works and social programs, imposing regulations, and breaking up monopolies)
+**Government Intervention**: actions taken by government to influence the economy (for example, setting taxation and interest rates, spending on public works and social programs, imposing regulations, and breaking up monopolies)
 
-Great Depression: an economic crisis that began with the stock market crash in 1929 and continued through the 1930s . During this time, banks failed, factories closed, many people became unemployed, and international trade declined
+**Great Depression**: an economic crisis that began with the stock market crash in 1929 and continued through the 1930s . During this time, banks failed, factories closed, many people became unemployed, and international trade declined
 
-Marxism: a socialist ideology that evolved from Marx's ideas
+**Marxism**: a socialist ideology that evolved from Marx's ideas
 
-Proletariat: a term used by Karl Mark to refer to the class of industrial workers whose only asset is the labour that they sell to an employer. Marx argued that the proletariat should rise up against the bourgeoisie (the property- and business-owning class)
+**Proletariat**: a term used by Karl Mark to refer to the class of industrial workers whose only asset is the labour that they sell to an employer. Marx argued that the proletariat should rise up against the bourgeoisie (the property- and business-owning class)
 
-Socialism: any ideology based on the belief that collectivist values, such as collective responsibility, collective interest, co-operation, economic equality, adherence to collective norms, and public property, should be the foundation for political, economic, and social life
+**Socialism**: any ideology based on the belief that collectivist values, such as collective responsibility, collective interest, co-operation, economic equality, adherence to collective norms, and public property, should be the foundation for political, economic, and social life
 
-Utopian Society: an ideal or perfect society. Utopia is a Greek word that means "nowhere". Utopian socialist tried to create small ideal communities. They believed that by controlling the environment that people lived in they could create better people
+**Utopian Society**: an ideal or perfect society. Utopia is a Greek word that means "nowhere". Utopian socialist tried to create small ideal communities. They believed that by controlling the environment that people lived in they could create better people
 
 # Questions
 ## 1. Explain the important ideas and practices of each person below:
@@ -77,10 +77,10 @@ _____ Government should protect the right of workers to be in a union and bargai
 
 _____ Society should be based on the Rule of Law.
 
-## The Great Depression and Cooperative Commonwealth Federation (CCF)
+# The Great Depression and Cooperative Commonwealth Federation (CCF)
 ###### 9. The great depression lasted for 10 years, from the crash in October 1929, to the beginning of World War 2 in 1939. About 25% of the workforce in both Canada and the United States were unemployed. People began to question classical liberal values of laissez faire. What types of government actions can you think of that might help in an economic crisis? How could the government help put people back to work again? 
 
-## The Great Depression
+# The Great Depression
 ## 10. According to your text the Great Depression was the result of:
 Lack of government regulations
 ## 11. What even is seen as the kick off for the great depression?
@@ -97,3 +97,58 @@ Its an outlined document the CCF wrote
 * shelters for the jobless and homeless
 * pension programs
 * subsidized health services
+
+# The Greatest Canadian Tommy Douglas
+## 1. Describe Tommy Douglas' family background
+ Born in Fook, tough for his working class parents, moved to canada for a better life, went back to scotland, sold making corks for whiskey, decided canada was better, setup residence in winnipeg, practived prinister, had a son who was a movie star, tommy became premier, moved to political stage in ottawa, made canada the caring and sharing country we know
+
+## 2. What happened during the Winnipeg general Strike and how did this affect Tommy Douglas
+tommy saw the whole thing on a rooftop, tommy wanted to make a difference, trained as a baptist minister, 
+
+1919, all workers stopped working for 6 weeks, saw it as injustice
+## 3. What happened in Weyburn Saskatchewan that changed Tommy Douglas' wife?
+became a minister and his wife was determined to take care of human needs
+
+## 4. Tommy Douglas helped found the Canadian Commonwealth federation party. What are their goals?
+supplying suppliment and encrichment to canadians, get elected,  
+
+eliminate domination of one class system over another, promote economic equality and nationalize the economy, 
+
+## 5. How did political opponents portray the CCF?
+made CCF and tommy look bad through liberal friendly newspapers, opponents also made lies about the CCF
+
+saw it as a radical threat, bolshevik-like (communist) 
+## 6. What is the main point of the story of "mouseland". How does this story reflect socialist ideas?
+elect someone that will work with the people, not against
+
+common people should stand up to the wealthy "cats"
+
+## 7. Why does the film include Tommy’s view of Hitler, the VietnamWar and his daughter being charged with storing explosives of the Black Panther’s. 
+saw hitler for who he was opposed to how others did (saw him as a nice guy)
+
+## 8. What were some of the changes that Tommy Douglas make in Saskatchewan? 
+built thousands of miles of road
+brought NA's auto insurance
+relaxed liquor laws
+forced 2 weeks paid vacation 
+revolutionized electrical grid
+human rights, oulawed discrimination
+got sewers made
+
+## 9. Why did Tommy Douglas have a personal connection to the unaffordability of medical treatment?
+as a child, tommy suffered a leg infection and had a bad experience due to not being able to afford it
+
+## 10. Why and how did doctors try to stop medicare in Saskatchewan?
+doctors were willing to play dirty, did a strike, threatened to leave the province
+
+felt they could not practice under state control, but backed down 6 weeks later
+## 11. How does the Canadian Health Care system compare to the American system before Obama Care?
+in canada, healthcare is publically funded, but america relied on private companies 
+
+## 12. What are some comparisons that are made between Tommy Douglas and Trudeau.
+tommy was a democratic socialist, trudeau was an ex-ndp liberal, 
+
+## 13. Make a list of some of the government programs that Tommy Douglas initiated? 
+ medicare, uhc, old age pension plans, free textbooks for students
+
+uhc, saskatchewan bill of rights, labor relations board, regulating electricity, developing crown corps, public auto insurace, art supports
