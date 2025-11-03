@@ -69,3 +69,22 @@ g) $\log_{2}8$, since $8=2^3$, $\log_{2}8=3$
 h) $3\log_{5}25=\log_{5}(25^3)=\log_{5}(5^{6})=6$
 
 2. Write each as a single logarithm and completely simplify
+
+3. simplify $3\log_{4}a-3\log_{4}b$
+
+4. expand $\log_{4}(a^5b^7)$
+
+5. 15
+
+6. 2.5
+
+7. $\log_{b}(3x)+\log_{b}(3x*x^5)=\log_{b}(3x^6)$
+$\log_{b}(\frac{3x^6}{6x^2})$
+simplify frac: $\frac{1}{2}x^4$
+ans: $\log_{b}\left( \frac{x^4}{2} \right)$
+
+8. $\log_{x}\left( \frac{x}{x^5} \right),\log_{x},\log_{x}(x*x),3\log_{x}(x)$
+
+9. $\log(\frac{2x^6}{4})$
+
+10. 
