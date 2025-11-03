@@ -51,13 +51,21 @@ $\log_{2}\left( \frac{a^2}{bc^3} \right)$
 *reminder: $\log_{a}(b^c) =c\log_{a}(b)$
 log power rule: $\log _{a}​(a^b)=b$
 
+
 a) $log10^4=4$
+
 b) $\log10^-3=-3$
+
 c) $\log_{2}4^3=6$
+
 d) $\log_{x}x^7=\frac{7\log(x)}{\log(x)}=7$
+
 e) $log_{17}17^4=4$
+
 f) $6\log_{10} 10=\log_{10}(10^6)=6$
+
 g) $\log_{2}8$, since $8=2^3$, $\log_{2}8=3$
+
 h) $3\log_{5}25=\log_{5}(25^3)=\log_{5}(5^{6})=6$
 
 2. Write each as a single logarithm and completely simplify
