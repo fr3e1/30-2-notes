@@ -69,6 +69,13 @@ g) $\log_{2}8$, since $8=2^3$, $\log_{2}8=3$
 h) $3\log_{5}25=\log_{5}(25^3)=\log_{5}(5^{6})=6$
 
 2. Write each as a single logarithm and completely simplify
+a) $\log(a^2b^5)$
+b) $\log(x^3y^2)$
+c) $2\log\left( \frac{m^2n}{p^5} \right)$
+d) $\log(2^3*5^4)$
+e) $\log \frac{x * x^4}{x^2}$
+f) $\log\left( \frac{2^7}{5^33^4} \right)$
+
 
 3. simplify $3\log_{4}a-3\log_{4}b$
 

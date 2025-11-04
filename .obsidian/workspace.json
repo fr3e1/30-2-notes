@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
+                "file": "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 6"
+              "title": "Lesson 4 - Laws of Logarithms"
             }
           }
         ]
@@ -188,23 +188,23 @@
     "type": "floating",
     "children": [
       {
-        "id": "38c0f647427465d2",
+        "id": "b2cfc0f7ac00c685",
         "type": "window",
         "children": [
           {
-            "id": "f4acb8dedcabd44a",
+            "id": "88b446bd1d78a293",
             "type": "tabs",
             "children": [
               {
-                "id": "1c0061051c9e6adf",
+                "id": "65766bdb1b066c9b",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf"
+                    "file": "Math 30-2/Chapter 7/M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk.pdf"
                   },
                   "icon": "lucide-file-text",
-                  "title": "6 Chapter 6"
+                  "title": "M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk"
                 }
               }
             ]
@@ -214,50 +214,19 @@
         "x": 0,
         "y": 0,
         "width": 1280,
-        "height": 1400,
-        "maximize": true,
-        "zoom": 1
-      },
-      {
-        "id": "115d6614d0981275",
-        "type": "window",
-        "children": [
-          {
-            "id": "3ec75e921707ac83",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "f48eccade27efad5",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "Unit 2 (Chptrs 4-6) Workbook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 640,
         "height": 700,
         "maximize": true,
         "zoom": 1.5
       }
     ]
   },
-  "active": "e12b689695e6089f",
+  "active": "561469fd0b200f39",
   "lastOpenFiles": [
-    "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf",
-    "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
-    "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
-    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Math 30-2/Chapter 7/M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk.pdf",
+    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+    "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
+    "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
+    "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
