@@ -244,8 +244,8 @@
         "direction": "vertical",
         "x": 0,
         "y": 0,
-        "width": 715,
-        "height": 1400,
+        "width": 640,
+        "height": 700,
         "maximize": true,
         "zoom": 1.5
       }
