@@ -80,6 +80,7 @@ f) $\log\left( \frac{2^7}{5^33^4} \right)$
 3. simplify $3\log_{4}a-3\log_{4}b$
 
 4. expand $\log_{4}(a^5b^7)$
+$5\log_{4}a+7\log_{4}b$
 
 5. 15
 
@@ -94,4 +95,19 @@ ans: $\log_{b}\left( \frac{x^4}{2} \right)$
 
 9. $\log(\frac{2x^6}{4})$
 
-10. 
+10. $[\log(3)+4\log(x)]-[\log(9)_+\log(x)]+3\log(x)$
+$\log\left( \frac{1}{3} \right)+6\log(x)$
+$\log\left( \frac{^6}{3} \right)$
+a = 1
+b = 6
+c = 3
+
+11. $2\log(4x)+\log(x)-3\log(x^2)$
+$\log(16x^2)+\log(x)-\log(x^{6})$
+$\log\left( \frac{16x^2*x}{x^6} \right)$
+$\log\left( \frac{16x^3}{x^6} \right)$
+$\log\left( \frac{16}{x^3} \right)$
+
+a = 16
+b = 1
+c = 6
