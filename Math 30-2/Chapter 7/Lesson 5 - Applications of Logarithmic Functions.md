@@ -74,7 +74,7 @@ $\frac{10^{80/10}}{10^{50/10}}=1000$
 reminder:
 earthquake$$M=\log I$$
 pH$$pH=-\log[H^+]$$
-sound $$dB=10\log L$$ $$$10^{dB/10}=L$$$
+sound $$dB=10\log L$$ $$10^{dB/10}=L$$$
 1. 
 a)$-\log(1.58\times 10^{-2})$
 =1.8
