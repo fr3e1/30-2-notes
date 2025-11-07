@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+                "file": "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 4 - Laws of Logarithms"
+              "title": "Chapter 12"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -184,8 +185,13 @@
   },
   "active": "e12b689695e6089f",
   "lastOpenFiles": [
-    "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
+    "Social 30-2/Unit 3/Chapter 12",
+    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
     "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Social 30-2/Unit 3",
+    "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
     "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
@@ -216,12 +222,9 @@
     "images/Pasted image 20251030121254.png",
     "images/Pasted image 20251030123007.png",
     "images/Pasted image 20251030122118.png",
-    "Math 30-2/Chapter 7",
     "Social 30-2/vocabularies/Suffrage.md",
     "Social 30-2/vocabularies/Collective.md",
-    "Social 30-2/Unit 2/Chapter 5/3 Chapter 5 Part 1.pdf",
     "Social 30-2/Unit 2/Chapter 5/Chapter 5A - The Impacts of Classical Liberalism.md",
-    "Math 30-2/Chapter 6/M30-2 Student Booklet (Ch 6) rk - Google Docs - M30-2 Student Booklet (Ch 6) rk.pdf",
     "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
@@ -229,7 +232,6 @@
     "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
     "Math 30-2/Chapter 6/Exponential growth function.md",
     "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
-    "Social 30-2/vocabularies/Haudenosaunee Confederacy.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
