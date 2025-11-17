@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lesson 4 - Laws of Logarithms"
+            }
+          },
+          {
+            "id": "add862c13859764f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Chapter 12"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,15 +198,85 @@
       "print:Print note": false
     }
   },
-  "active": "e12b689695e6089f",
+  "floating": {
+    "id": "723398d7a9f3ec2d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "85c7af47bdc94623",
+        "type": "window",
+        "children": [
+          {
+            "id": "7ba2f920c35db0c5",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3f48c137b4d39876",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 U3 Part A Workbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 841,
+        "width": 1415,
+        "height": 592,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "017087f72fb1096e",
+        "type": "window",
+        "children": [
+          {
+            "id": "41edc1e8dc64fed8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5003524cf6fb09a2",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 Part A_ Modern Liberalism _ Mixed Economies"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 37,
+        "width": 1415,
+        "height": 790,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "add862c13859764f",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/Chapter 12",
-    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
     "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
-    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
-    "Social 30-2/Unit 3",
+    "Social 30-2/vocabularies/Adam Smith.md",
+    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
+    "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
+    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+    "Social 30-2/Unit 3/Chapter 12",
+    "Social 30-2/Unit 3",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
     "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
@@ -211,7 +296,6 @@
     "Math 30-2/Chapter 5/vocabulary/Leading Coefficient.md",
     "Social 30-2/Unit 2/Chapter 5/4 Chapter 5 Part 2.pdf",
     "images/Pasted image 20251030134527.png",
-    "Social 30-2/Unit 2/Chapter 6",
     "images/Pasted image 20251030134519.png",
     "images/Pasted image 20251030134344.png",
     "images/Pasted image 20251030134332.png",
@@ -226,12 +310,10 @@
     "Social 30-2/vocabularies/Collective.md",
     "Social 30-2/Unit 2/Chapter 5/Chapter 5A - The Impacts of Classical Liberalism.md",
     "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
-    "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
     "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
     "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
     "Math 30-2/Chapter 6/Exponential growth function.md",
-    "Math 30-2/Chapter 6/Lesson 1 - Characteristics of Exponential functions.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }

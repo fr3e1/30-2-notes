@@ -22,7 +22,7 @@ a > 0 or a < 0: a > 0
 
 end behavior: QIV to QI 
 
-domain, range: $$D(x|x>0), xER 3$$
+[[Domain]], [[Range]]: $$D(x|x>0), xER 3$$
 ![[Pasted image 20251030121640.png]]
 $$f(x)=5\log _{10}x$$
 
@@ -34,7 +34,7 @@ a>0 or a<0: a > 0
 
 end behavor: QIV to QI
 
-domain, range: 
+[[Domain]], [[Range]]: 
 D{x| x > 0, xER 3 }
 R{y|yeR 3}
 
@@ -76,13 +76,13 @@ domain range:  D{x| x > 0, xER 3 } R{y|yeR 3}
 
 
 ## Summary
-* The A value determines the **end behaviour** of the graph
+* The A value determines the **[[end behaviour]]** of the graph
 * the larger A is, the faster the function increases
 * the b value is the **base** of the log. It must always be **positive** and can never equal **1**
 * if  a>0, the graph is **increasing**
 * if **a<0**, the graph is decreasing
 * The domain for all log graphs is **D:{x|x>0, xER}**
-* the range for all log graphs is **R:{y|yER}**
+* the [[Range]] for all log graphs is **R:{y|yER}**
 
 ![[Pasted image 20251030123007.png]]
 # Practice
@@ -91,18 +91,18 @@ $$f(x) =  3\log_{10}x$$
 x-int: 1 
 y-int: none
 inc or dec?  inc
-domain: 
-range:
+[[Domain]]: 
+[[Range]]:
 $$f(x)=-7\log_{10}x$$
 x-int: 1
 y-int: none
 inc or dec? dec 
-domain:
-range:
+[[Domain]]:
+[[Range]]:
 
 $$f(x)=\log _{e}x$$
 x-int: 1
 y-int: none
 inc or dec? 
-domain:
-range:
+[[Domain]]:
+[[Range]]:

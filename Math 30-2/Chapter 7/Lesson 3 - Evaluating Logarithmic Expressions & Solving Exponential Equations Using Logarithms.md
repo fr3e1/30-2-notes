@@ -11,7 +11,7 @@ example: $$x = 2^y \to y = \log_{2}x$$
 notice: the bases in the exponential equation are the **bases** for the logarithmic equation. 
 "Base stays the same and the other two parts switch"
 
-Since the logarithmic function y = $log_{b}x$ is only defined for positive values of x, the logarithm of a negative number cannot be determined
+Since the logarithmic function y = $log_{b}x$ is only defined for positive [[Values]] of x, the logarithm of a negative number cannot be determined
 
 the logarithmic equation y = log_{b}x can be expresses in exponential form as x = b^y
 the exponential equation y = b^x can be expressed in the logarithmic form as log_{b}y = x

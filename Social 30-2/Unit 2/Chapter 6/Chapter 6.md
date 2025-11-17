@@ -4,19 +4,19 @@
 
 **Bourgeoisie**: a french word that refers to the social class that evolved in Europe during the middle ages with the development of cities and the growth in trade. Karl Marx used this word to refer to the business-owning class during the time of the Inustrial Revolution in Europe
 
-**Communism:** an ideology based on the belief that the oppressed working class must overcome its property-owning oppression through revolution, so that together they can work towards becoming a classless society in which property is owned by the community and all people share in the production of goods and in the benefits of production (at which point. in theory, no government is needed)
+**Communism:** an [[Ideology]] based on the belief that the oppressed working class must overcome its property-owning oppression through revolution, so that together they can work towards becoming a classless society in which property is owned by the community and all people share in the production of goods and in the benefits of production (at which point. in theory, no government is needed)
 
-**Democratic Socialism**: a political ideology that advocates a peaceful, evolutionary transition of society from capitalism to socialism (a society in which people share fairly in its wealth) through democratic means, as opposed to the communist idea of change through violent revolution; also known as **social democracy** 
+**Democratic Socialism**: a political [[Ideology]] that advocates a peaceful, evolutionary transition of society from [[Capitalism]] to socialism (a society in which people share fairly in its wealth) through democratic means, as opposed to the communist idea of change through violent revolution; also known as **social democracy** 
 
 **Government Intervention**: actions taken by government to influence the economy (for example, setting taxation and interest rates, spending on public works and social programs, imposing regulations, and breaking up monopolies)
 
 **Great Depression**: an economic crisis that began with the stock market crash in 1929 and continued through the 1930s . During this time, banks failed, factories closed, many people became unemployed, and international trade declined
 
-**Marxism**: a socialist ideology that evolved from Marx's ideas
+**Marxism**: a socialist [[Ideology]] that evolved from Marx's ideas
 
 **Proletariat**: a term used by Karl Mark to refer to the class of industrial workers whose only asset is the labour that they sell to an employer. Marx argued that the proletariat should rise up against the bourgeoisie (the property- and business-owning class)
 
-**Socialism**: any ideology based on the belief that collectivist values, such as collective responsibility, collective interest, co-operation, economic equality, adherence to collective norms, and public property, should be the foundation for political, economic, and social life
+**Socialism**: any [[Ideology]] based on the belief that [[collectivist]] [[Values]], such as [[Collective]] responsibility, [[Collective]] interest, co-operation, economic equality, adherence to [[Collective]] norms, and public property, should be the foundation for political, economic, and social life
 
 **Utopian Society**: an ideal or perfect society. Utopia is a Greek word that means "nowhere". Utopian socialist tried to create small ideal communities. They believed that by controlling the environment that people lived in they could create better people
 
@@ -69,7 +69,7 @@ _____Men are born free and have certain rights, such as the right to life, liber
 
 _____ There should be greater economic equality in society 
 
-_____ Capitalism infringes on workers rights and prevents them from being free 
+_____ [[Capitalism]] infringes on workers rights and prevents them from being free 
 
 _____ Government should be based on the will of the majority
 
@@ -112,7 +112,7 @@ became a minister and his wife was determined to take care of human needs
 ## 4. Tommy Douglas helped found the Canadian Commonwealth federation party. What are their goals?
 supplying suppliment and encrichment to canadians, get elected,  
 
-eliminate domination of one class system over another, promote economic equality and nationalize the economy, 
+eliminate domination of one [[Class system]] over another, promote economic equality and nationalize the economy, 
 
 ## 5. How did political opponents portray the CCF?
 made CCF and tommy look bad through liberal friendly newspapers, opponents also made lies about the CCF

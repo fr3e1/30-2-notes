@@ -67,7 +67,7 @@ Other groups other than white males started to wonder why they were being left o
 
 Citizens, including feminists and human rights activists began pressuring society for changes
 
-Feminism has had a broad range of movements, ranging centuries. Classical feminists would be placed on the left side, they believe in liberal values as the WANT change and are looking for more group rights over individual rights
+Feminism has had a broad [[Range]] of movements, ranging centuries. Classical feminists would be placed on the left side, they believe in liberal [[Values]] as the WANT change and are looking for more group rights over individual rights
 ![[Pasted image 20251029142227.png]]
 
 
@@ -84,7 +84,7 @@ Feminism has had a broad range of movements, ranging centuries. Classical femini
 ### C. What is the [[Suffrage]] movement?
 A woman seeking the right to vote through organized protest
 
-The suffrage movement is considered the first wave of feminism, the belief in social, political and economical equality for women
+The [[Suffrage]] movement is considered the first wave of feminism, the belief in social, political and economical equality for women
 
 ## Protection of Human rights p.132
 ### 18. What is the Universal Declaration of Human Rights? What are 4 important rights listed there?
@@ -96,7 +96,7 @@ The suffrage movement is considered the first wave of feminism, the belief in so
 ### 19. Explain in your own words the important difference between modern liberalism and classical liberalism. Include as many examples and details as you are able to. What types of laws and policies would each government have? Who are some of the important thinkers of each system? 
 
 
-| Modern Liberalism                                   | Classical Liberalism                                                                                                                            |
+| Modern Liberalism                                   | [[Classical Liberalism]]                                                                                                                            |
 | --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | involves significal government intervention         | involves NO government intervention                                                                                                             |
 | proposes that people rights should promote equality | suggests that the only function government is to protect rights to life, liberty, and property                                                  |
