@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e12b689695e6089f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Lesson 4 - Laws of Logarithms"
-            }
-          },
-          {
-            "id": "add862c13859764f",
+            "id": "7dc92fdea90f846b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Chapter 12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,15 +188,46 @@
     "type": "floating",
     "children": [
       {
-        "id": "85c7af47bdc94623",
+        "id": "d3b61d6dba8e571c",
         "type": "window",
         "children": [
           {
-            "id": "7ba2f920c35db0c5",
+            "id": "fed41b34a3b17077",
             "type": "tabs",
             "children": [
               {
-                "id": "3f48c137b4d39876",
+                "id": "898ca80d897cb36a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "3 Part B_ Austrian Economics"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 544,
+        "width": 1365,
+        "height": 889,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "708297b161adbc6d",
+        "type": "window",
+        "children": [
+          {
+            "id": "e2dc1b73b4d661fe",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "eefe4c3c0aebd4c4",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -227,54 +243,29 @@
         ],
         "direction": "vertical",
         "x": 7,
-        "y": 841,
-        "width": 1415,
-        "height": 592,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "017087f72fb1096e",
-        "type": "window",
-        "children": [
-          {
-            "id": "41edc1e8dc64fed8",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5003524cf6fb09a2",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "1 Part A_ Modern Liberalism _ Mixed Economies"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
         "y": 37,
-        "width": 1415,
-        "height": 790,
+        "width": 1365,
+        "height": 493,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "add862c13859764f",
+  "active": "7dc92fdea90f846b",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
+    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
-    "Social 30-2/vocabularies/Adam Smith.md",
     "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/Chapter 12/2025-11-18_14-12.png",
+    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
+    "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
+    "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
+    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
+    "Math 30-2/Chapter 4",
+    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
+    "Social 30-2/vocabularies/Adam Smith.md",
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
-    "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Social 30-2/Unit 3/Chapter 12",
     "Social 30-2/Unit 3",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
@@ -285,16 +276,12 @@
     "Math 30-2/midline.md",
     "Math 30-2/Chapter 7/M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk.pdf",
     "images/Pasted image 20251104193827.png",
-    "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
-    "Math 30-2/Chapter 8/M30-2 Student Booklet (Ch 8) rk.pdf",
-    "Social 30-2/Unit 1/1 SS30-2 Unit 1 (Chptrs 1-3) Workbook.pdf",
     "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
     "Untitled.canvas",
     "Social 30-2/Unit 2/Chapter 5/Chapter 5B - The responses to classical liberalism.md",
     "Math 30-2/Chapter 5/vocabulary/Vocabularies.md",
     "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
     "Math 30-2/Chapter 5/vocabulary/Leading Coefficient.md",
-    "Social 30-2/Unit 2/Chapter 5/4 Chapter 5 Part 2.pdf",
     "images/Pasted image 20251030134527.png",
     "images/Pasted image 20251030134519.png",
     "images/Pasted image 20251030134344.png",
@@ -305,7 +292,6 @@
     "images/Pasted image 20251030125933.png",
     "images/Pasted image 20251030121254.png",
     "images/Pasted image 20251030123007.png",
-    "images/Pasted image 20251030122118.png",
     "Social 30-2/vocabularies/Suffrage.md",
     "Social 30-2/vocabularies/Collective.md",
     "Social 30-2/Unit 2/Chapter 5/Chapter 5A - The Impacts of Classical Liberalism.md",
@@ -313,7 +299,6 @@
     "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
     "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
     "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
-    "Math 30-2/Chapter 6/Exponential growth function.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
