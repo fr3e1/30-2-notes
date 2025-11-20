@@ -188,46 +188,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "d3b61d6dba8e571c",
+        "id": "4c202c7f35cb2f32",
         "type": "window",
         "children": [
           {
-            "id": "fed41b34a3b17077",
+            "id": "52d0311752f1b89a",
             "type": "tabs",
             "children": [
               {
-                "id": "898ca80d897cb36a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "3 Part B_ Austrian Economics"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
-        "y": 544,
-        "width": 1365,
-        "height": 889,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "708297b161adbc6d",
-        "type": "window",
-        "children": [
-          {
-            "id": "e2dc1b73b4d661fe",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "eefe4c3c0aebd4c4",
+                "id": "9f0aa74d66c4433a",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -244,23 +213,56 @@
         "direction": "vertical",
         "x": 7,
         "y": 37,
-        "width": 1365,
-        "height": 493,
+        "width": 1266,
+        "height": 147,
         "maximize": false,
-        "zoom": 0
+        "zoom": 2.5
+      },
+      {
+        "id": "341264285c20b99b",
+        "type": "window",
+        "children": [
+          {
+            "id": "6fe3075c476061bb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5d37b93798581503",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "5 Part C_ Social Democracy in Sweden_Nordic"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 198,
+        "width": 1266,
+        "height": 1235,
+        "maximize": false,
+        "zoom": 2.5
       }
     ]
   },
   "active": "7dc92fdea90f846b",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
-    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
     "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
+    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Social 30-2/Unit 3/Chapter 12/2025-11-18_14-12.png",
+    "Math 30-2/Chapter 4/Lesson 2 - Equivelent Expressions & Non=permissible values (NPV's).md",
+    "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
     "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
-    "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
-    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4",
     "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Social 30-2/vocabularies/Adam Smith.md",
@@ -274,7 +276,6 @@
     "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
     "Social 30-2/Unit 2/Chapter 6/6 Chapter 6.pdf",
     "Math 30-2/midline.md",
-    "Math 30-2/Chapter 7/M30-2 Student Booklet (Ch 7) rk - Google Docs - M30-2 Student Booklet (Ch 7) rk.pdf",
     "images/Pasted image 20251104193827.png",
     "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
     "Untitled.canvas",
@@ -298,7 +299,6 @@
     "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
     "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
     "Math 30-2/Chapter 6/Lesson 2 - exponential regression & applications of exponential functions.md",
-    "Social 30-2/Chapter 5A/Chapter 5A - The impacts of Classical Liberalism.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
