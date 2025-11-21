@@ -1,7 +1,7 @@
 
 # Vocabulary
 
-# Notes
+# Part A: Journey to Modern Liberalism
 ## 1. John D. Rockefeller is considered a robber baron. Give some reasons as to why he symbolizes the negatives of capitalism at the beginning of the 1900s
  - did not believe in competition, bought the competition instead
  - practiced anti-competitive practices
@@ -265,7 +265,7 @@ A cradle to grave welfare system (sometimes called womb to tomb welfare) is a sy
 ## 4A: What percentage of Sweden's major business is run privately?
 Approximately 90%
 
-# B: provide some examples of how Sweden is a Cradle to Grave Welfare State
+## B: provide some examples of how Sweden is a Cradle to Grave Welfare State
 Welfare services include:
 * fre prenatal care, extensive maternity benefits for both mothers and fathers, free daycare and nusery schools and generous family allowances
 * older children receive free lunches and free university education
