@@ -242,7 +242,7 @@ The American Government Response was bailouts and stimulus packages to major fin
 # Part C: Social democracies - Sweden and other Nordic Countries
 
 ## 1. What are the Nordic Countries?
-* Denmark, Finland, Iceland, Norway, and Sweden
+* Social Democratic: Denmark, Finland, Iceland, Norway, and Sweden
 * autonomous territories of the Faroe Islands and Greenland, and the Åland Islands
 
 ## Nordic Countries are not democratic socialist by definition and prefer to be called social democracies
@@ -260,7 +260,7 @@ The American Government Response was bailouts and stimulus packages to major fin
 A full acceptance that the free market is best for major industries of a nation
 
 ## B: What is a Cradle to Grave Welfare System?
-A cradle to grave welfare system (sometimes called womb to tomb welfare) is a system where social programs exist for citizens from birth (daycare, early childhood, ecucation etc.) to death (senior care, death benefits etc.)
+A cradle to grave welfare system (sometimes called womb to tomb welfare) is a system where social programs exist for citizens from birth (daycare, early childhood, education etc.) to death (senior care, death benefits etc.)
 
 
 ## Case Study: Sweden
@@ -284,8 +284,9 @@ Sweden - 52.3%
 Canada - 25.1%
 USA - 13.3%
 
+property and resources are not owned and profits are redistributed
 ## D: summarize: Proponents of Sweden and other Nordic Countries' social democracy would argue that....
-
+property and resources are not owned and profits are redistributed fairly
 
 ## E: Summarize: Arguments against Social democracy would include.....
 
@@ -298,24 +299,30 @@ USA - 13.3%
 
 ## 1. How do command economies attempt to answer the three basic economic questions:
 
-## A: What will be produced? 
+### A: What will be produced? 
+The government decides through study and planning what the needs of the socirty are.Individual consumers are given priority
+### B: How will goods and services be distributed?
+The government or the public owns the factories, resources, and all the means of production
 
-## B: How will goods and services be distributed?
+Quotas (production targets) are set for factories and farms. There is no private property or competition between different producers
 
-## C: To whom will goods and services be distributed?
+the government may direct individuals to jobs and careers that best meet the needs of the society
 
-## D: Who will make these decisions?
+### C: To whom will goods and services be distributed?
+The government controls distribution according to people's needs, and this promotes economic equality. The government may also use this control to achieve military, industrial, or other goals for the society. Prices for goods are set by central planners.
 
+### D: Who will make these decisions?
+The leaders and their planning group (the central planners) determine the needs of the society and create, implement, and assess the plan
 
 ## 2. What is the Gosplan that existed in the Former Soviet Union?
-
+A group of economic experts carry out the goals of the government called the Gosplan
 
 ## Case Study: Cuba
 ## 3. What was the ultimate goal of Fidel Castro?
-
+Castro's goal has been described as the "cherished ideal of egalitarianism, where every man must be equal even if all are poor"
 
 ## 4. Why is a doctor and a garbage man seen as similar in value and pay in Cuba?
-
+a doctor and a cleaner would both be judged as having a positive impact; if the trash collector did not collect trash properly, then society would suffer from unsanitary living conditions. The jobs would not receive equal pay, but the difference would not be great
 
 ## 5. What are some perceived advantages and disadvantages of Command Economies?
 | Some perceived Advantages | some perceived Disadvantages |

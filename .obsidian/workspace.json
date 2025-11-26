@@ -212,9 +212,9 @@
         ],
         "direction": "vertical",
         "x": 7,
-        "y": 37,
+        "y": 841,
         "width": 1266,
-        "height": 691,
+        "height": 592,
         "maximize": false,
         "zoom": 0
       },
@@ -237,15 +237,28 @@
                   "icon": "lucide-file-text",
                   "title": "5 Part C_ Social Democracy in Sweden_Nordic"
                 }
+              },
+              {
+                "id": "ed8db484d41e2ef0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6 Part D_ Command Economies"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 1287,
+        "x": 7,
         "y": 37,
         "width": 1266,
-        "height": 691,
+        "height": 790,
         "maximize": false,
         "zoom": 2.5
       }
@@ -253,9 +266,10 @@
   },
   "active": "c54c855da021111a",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
-    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
     "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
     "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
@@ -276,7 +290,6 @@
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Social 30-2/Unit 3/Chapter 12",
-    "Social 30-2/Unit 3",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
     "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
