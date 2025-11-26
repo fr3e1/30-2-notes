@@ -49,3 +49,20 @@ factor: $\frac{2(c-4)}{4(4-c)}$
 NPV: $x\ne 4$
 $\frac{1(-1)}{2}$ $\to$ $\frac{-1}{2}$
 # Practice
+1.
+a) $\frac{6x^2 + 24x} {6x}$
+factor: $\frac{6x(x+4)}{6x}$
+NPV: $x \ne 0$
+simplify: $x+4$
+
+b) $\frac{14a^2}{21a-28a^2}$
+factor: $\frac{7a(2a)}{7a(3-4a)}$
+NPV: $x\ne 0$
+simplify: $\frac{2a}{3-4a}$
+
+c)$\frac{3x^2+15x}{6x^2-3x}$
+factor: $\frac{3x(x+5)}{3x(2x-1)}$
+NPV: $x \ne 0$
+simplify: $\frac{x+5}{2x-1}$
+
+d)

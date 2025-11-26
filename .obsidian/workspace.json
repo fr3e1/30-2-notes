@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dc92fdea90f846b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "1 Part A_ Modern Liberalism _ Mixed Economies"
-            }
-          },
-          {
             "id": "c54c855da021111a",
             "type": "leaf",
             "state": {
@@ -33,8 +21,7 @@
               "title": "Chapter 12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -195,25 +183,96 @@
       "print:Print note": false
     }
   },
-  "active": "561469fd0b200f39",
+  "floating": {
+    "id": "723398d7a9f3ec2d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5ea2435f61f81edc",
+        "type": "window",
+        "children": [
+          {
+            "id": "f2bdae8fd634affc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7ecb2fbfbc28ec6a",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 U3 Part A Workbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 37,
+        "width": 1266,
+        "height": 691,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "cc409c26faf9ac74",
+        "type": "window",
+        "children": [
+          {
+            "id": "e40e7de56b47c6c7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d8e24bb1ba4aa34",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "5 Part C_ Social Democracy in Sweden_Nordic"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1287,
+        "y": 37,
+        "width": 1266,
+        "height": 691,
+        "maximize": false,
+        "zoom": 2.5
+      }
+    ]
+  },
+  "active": "c54c855da021111a",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
-    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
     "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
+    "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
+    "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
+    "Math 30-2/Chapter 4/Lesson 4 - Multiplying and dividing rational expressions.md",
+    "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
+    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
+    "Social 30-2/vocabularies/Adam Smith.md",
+    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/2025-11-18_14-12.png",
     "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
     "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
     "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
-    "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
-    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4/Lesson 2 - Equivelent Expressions & Non=permissible values (NPV's).md",
     "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
-    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
-    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
     "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
     "Math 30-2/Chapter 4",
     "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
-    "Social 30-2/vocabularies/Adam Smith.md",
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Social 30-2/Unit 3/Chapter 12",
@@ -240,9 +299,6 @@
     "images/Pasted image 20251030123007.png",
     "Social 30-2/vocabularies/Suffrage.md",
     "Social 30-2/vocabularies/Collective.md",
-    "Social 30-2/Unit 2/Chapter 5/Chapter 5A - The Impacts of Classical Liberalism.md",
-    "Math 30-2/Chapter 6/Lesson 4 - Solving Exponential Equations.md",
-    "Math 30-2/Chapter 8/Lesson 4 - Applications of Sinusodial functions.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
