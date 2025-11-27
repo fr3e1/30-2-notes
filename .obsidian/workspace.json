@@ -183,93 +183,12 @@
       "print:Print note": false
     }
   },
-  "floating": {
-    "id": "723398d7a9f3ec2d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "5ea2435f61f81edc",
-        "type": "window",
-        "children": [
-          {
-            "id": "f2bdae8fd634affc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ecb2fbfbc28ec6a",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "1 U3 Part A Workbook"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
-        "y": 841,
-        "width": 1266,
-        "height": 592,
-        "maximize": false,
-        "zoom": 0
-      },
-      {
-        "id": "cc409c26faf9ac74",
-        "type": "window",
-        "children": [
-          {
-            "id": "e40e7de56b47c6c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "9d8e24bb1ba4aa34",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "5 Part C_ Social Democracy in Sweden_Nordic"
-                }
-              },
-              {
-                "id": "ed8db484d41e2ef0",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "6 Part D_ Command Economies"
-                }
-              }
-            ],
-            "currentTab": 1
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
-        "y": 37,
-        "width": 1266,
-        "height": 790,
-        "maximize": false,
-        "zoom": 2.5
-      }
-    ]
-  },
   "active": "c54c855da021111a",
   "lastOpenFiles": [
+    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
     "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
-    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
-    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
     "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
     "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
