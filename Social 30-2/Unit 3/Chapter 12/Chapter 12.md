@@ -300,7 +300,7 @@ property and resources are not owned and profits are redistributed fairly
 ## 1. How do command economies attempt to answer the three basic economic questions:
 
 ### A: What will be produced? 
-The government decides through study and planning what the needs of the socirty are.Individual consumers are given priority
+The government decides through study and planning what the needs of the society are. Individual consumers are given priority
 ### B: How will goods and services be distributed?
 The government or the public owns the factories, resources, and all the means of production
 
@@ -316,15 +316,20 @@ The leaders and their planning group (the central planners) determine the needs 
 
 ## 2. What is the Gosplan that existed in the Former Soviet Union?
 A group of economic experts carry out the goals of the government called the Gosplan
+![2025-11-27_13-37.png](2025-11-27_13-37.png)
+
 
 ## Case Study: Cuba
 ## 3. What was the ultimate goal of Fidel Castro?
+Following a revolution in 1959, the new communist government of Cuba under the leadership of Fidel castro tried to achieve economic equality for all Cuban citizens
+
 Castro's goal has been described as the "cherished ideal of egalitarianism, where every man must be equal even if all are poor"
 
 ## 4. Why is a doctor and a garbage man seen as similar in value and pay in Cuba?
 a doctor and a cleaner would both be judged as having a positive impact; if the trash collector did not collect trash properly, then society would suffer from unsanitary living conditions. The jobs would not receive equal pay, but the difference would not be great
 
+all jobs are different, equal purpose
 ## 5. What are some perceived advantages and disadvantages of Command Economies?
-| Some perceived Advantages | some perceived Disadvantages |
-| ------------------------- | ---------------------------- |
-|                           |                              |
+| Some perceived Advantages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | some perceived Disadvantages                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The economy can be efficient and use resources to meet planned goals and targets<br><br>wealth may be distributed more equally, and peopele may have access to the basics they need to exist<br><br>governments can ensure full employment<br><br>the marketplace can be stable and regulated, without experiencing economic booms and recessions<br><br>the goals of society may be met first, and profits benefit everyone in society<br><br>it is assumed that if the society prospers, the individual will benefit too | individual consumers may not have their needs met, and individual weaklth may not be a goal<br><br>people may not have a choice of career, and they may live with more regulations than they would in other economic systems<br><br>individuals may not have any incentive to work harder or improve the company or product<br><br>sometimes the economy is skow to respond to any changes, since the plans are locked in place<br><br>waste and inefficiency can be problems; the society may suffer if the government does not consider a particular goal to be important (for example, protection of the environment)<br><br>the government may focus on one type of production (for example, military hardware) rather than producing goods that people's personal needs (for example, consumer goods). |

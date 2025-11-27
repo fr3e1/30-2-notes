@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Social 30-2/Chapter 2/6 Ch3 - Cartoon Assignment.md",
+                "file": "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6 Ch3 - Cartoon Assignment"
+              "title": "Backlinks for Chapter 12"
             }
           },
           {
@@ -183,14 +183,53 @@
       "print:Print note": false
     }
   },
-  "active": "c54c855da021111a",
+  "floating": {
+    "id": "723398d7a9f3ec2d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "eaf07674dd95e04c",
+        "type": "window",
+        "children": [
+          {
+            "id": "a568f053f4ff14cc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b4d07e6ca9f430a8",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "6 Part D_ Command Economies"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 7,
+        "y": 37,
+        "width": 1266,
+        "height": 1396,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "561469fd0b200f39",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
-    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
     "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "images/2025-11-27_13-37.png",
+    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
     "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
+    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
     "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
     "Math 30-2/Chapter 4/Lesson 4 - Multiplying and dividing rational expressions.md",
     "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
@@ -228,9 +267,7 @@
     "Lesson 4 -.md",
     "images/Pasted image 20251030125933.png",
     "images/Pasted image 20251030121254.png",
-    "images/Pasted image 20251030123007.png",
     "Social 30-2/vocabularies/Suffrage.md",
-    "Social 30-2/vocabularies/Collective.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }

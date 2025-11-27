@@ -70,4 +70,13 @@ $9x-20=42$
 $9x=62$
 $x=\frac{62}{9}$
 
-b)$\frac{10}{x}+\frac{3}{1}=\frac{x+9}{x-4}$
+b)
+
+
+
+# Summary
+* To solve a rational equation, first factor everything
+* find a lowest common denominator and multiply all terms by it. You should not have fractions after this
+* then solve the resulting linear or quadratic equation. Remember, we must always check the solution with the original equation. if out solution is one of our non-permissible values, then we have an extraneous root. 
+* we can always check our work by graphing (ls=rs) or by sybstituting the value in the original equation $\to$ LS=RS
+* if we end up with any term bigger than 
