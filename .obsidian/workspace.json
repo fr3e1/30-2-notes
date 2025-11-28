@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+                "file": "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 12"
+              "title": "Lesson 7 - Applications of Rational Equations"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "46a2886002563bee",
@@ -183,47 +182,10 @@
       "print:Print note": false
     }
   },
-  "floating": {
-    "id": "723398d7a9f3ec2d",
-    "type": "floating",
-    "children": [
-      {
-        "id": "eaf07674dd95e04c",
-        "type": "window",
-        "children": [
-          {
-            "id": "a568f053f4ff14cc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b4d07e6ca9f430a8",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "6 Part D_ Command Economies"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 7,
-        "y": 37,
-        "width": 1266,
-        "height": 1396,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "c54c855da021111a",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "images/2025-11-27_13-37.png",
     "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
     "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
