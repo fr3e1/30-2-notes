@@ -18,7 +18,7 @@ $$
 
 # Example 1
 Marc drove 404km from Edmonton to Banff in the same length of time Amber took to drive 364km from Edmonton to Jasper. Marc drove 10km/h faster than Amber. Determine Marc's speed, in kilometers per hour
-iaa
+te
 
 |       | distance | speed | time |
 | ----- | -------- | ----- | ---- |
