@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
+                "file": "Social 30-2/Unit 3/Chapter 7/Chapter 7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 7 - Applications of Rational Equations"
+              "title": "Chapter 7"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -182,35 +183,104 @@
       "print:Print note": false
     }
   },
+  "floating": {
+    "id": "dff8c4f18c078450",
+    "type": "floating",
+    "children": [
+      {
+        "id": "efd195c4c39528de",
+        "type": "window",
+        "children": [
+          {
+            "id": "971dbfa270309561",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4d2dc44219430cd1",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Workbook.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 Ch7 - Chapter 7 Workbook"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 701,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "3d929c862511dd87",
+        "type": "window",
+        "children": [
+          {
+            "id": "a1f1d7d64a07a2e3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "49820f5c412acecf",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Notes Part 1.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "1 Ch7 - Chapter 7 Notes Part 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 701,
+        "maximize": true,
+        "zoom": 2
+      }
+    ]
+  },
   "active": "561469fd0b200f39",
   "lastOpenFiles": [
+    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Workbook.pdf",
+    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Notes Part 1.pdf",
+    "Social 30-2/Unit 3/Chapter 7/Chapter 7.md",
+    "Social 30-2/Unit 3/Chapter 12/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
+    "Social 30-2/Unit 3/Chapter 7",
+    "Social 30-2/Unit 3/Chapter 12/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
+    "Social 30-2/Unit 3/Chapter 12/1 U3 Part A Workbook.pdf",
+    "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
+    "Pasted image 20251201134237.png",
+    "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
+    "Social 30-2/Unit 4",
+    "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
     "test",
     "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
     "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
     "images/2025-11-27_13-37.png",
-    "Social 30-2/Unit 3/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
-    "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
-    "Math 30-2/Chapter 4/M30-2 Student Booklet (Ch 4).pdf",
     "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
-    "Social 30-2/Unit 3/1 U3 Part A Workbook.pdf",
-    "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
     "Math 30-2/Chapter 4/Lesson 4 - Multiplying and dividing rational expressions.md",
     "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
-    "Social 30-2/Unit 3/3 Part B_ Austrian Economics.pdf",
     "Social 30-2/vocabularies/Adam Smith.md",
-    "Social 30-2/Unit 3/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/2025-11-18_14-12.png",
     "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
-    "Social 30-2/Unit 2/Unit 2 (Chptrs 4-6) Workbook.pdf",
     "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
     "Math 30-2/Chapter 4/Lesson 2 - Equivelent Expressions & Non=permissible values (NPV's).md",
     "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
-    "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
-    "Math 30-2/Chapter 4",
     "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
-    "Social 30-2/Unit 3/Chapter 12",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
     "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
@@ -229,8 +299,6 @@
     "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
     "Lesson 4 -.md",
     "images/Pasted image 20251030125933.png",
-    "images/Pasted image 20251030121254.png",
-    "Social 30-2/vocabularies/Suffrage.md",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
