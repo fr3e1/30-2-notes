@@ -184,19 +184,50 @@
     }
   },
   "floating": {
-    "id": "dff8c4f18c078450",
+    "id": "017371074233d544",
     "type": "floating",
     "children": [
       {
-        "id": "efd195c4c39528de",
+        "id": "8b004fae2944ca3c",
         "type": "window",
         "children": [
           {
-            "id": "971dbfa270309561",
+            "id": "037532253e2a2d1a",
             "type": "tabs",
             "children": [
               {
-                "id": "4d2dc44219430cd1",
+                "id": "8629c9b4ae37736e",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Social 30-2/Unit 3/Chapter 7/2 Ch7 - Chapter 7 Notes Part 2.pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "2 Ch7 - Chapter 7 Notes Part 2"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1280,
+        "height": 1402,
+        "maximize": true,
+        "zoom": 2.5
+      },
+      {
+        "id": "7a4983c3d78c5a33",
+        "type": "window",
+        "children": [
+          {
+            "id": "b6a2cb69cbc7b1b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "04d31dd3c8e35ae3",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
@@ -217,88 +248,57 @@
         "height": 701,
         "maximize": true,
         "zoom": 2.5
-      },
-      {
-        "id": "3d929c862511dd87",
-        "type": "window",
-        "children": [
-          {
-            "id": "a1f1d7d64a07a2e3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "49820f5c412acecf",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Notes Part 1.pdf"
-                  },
-                  "icon": "lucide-file-text",
-                  "title": "1 Ch7 - Chapter 7 Notes Part 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1280,
-        "height": 701,
-        "maximize": true,
-        "zoom": 2
       }
     ]
   },
-  "active": "561469fd0b200f39",
+  "active": "c54c855da021111a",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Workbook.pdf",
-    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Notes Part 1.pdf",
+    "Social 30-2/Unit 3/Chapter 7/2 Ch7 - Chapter 7 Notes Part 2.pdf",
     "Social 30-2/Unit 3/Chapter 7/Chapter 7.md",
+    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Workbook.pdf",
+    "Math 30-2/Chapter 1/Lesson 2 - Venn Diagrams - Intersection and Union of Two Sets.md",
+    "Math 30-2/Chapter 1/M30-2 Student Booklet (Ch 1) rk - Google Docs - M30-2 Student Booklet (Ch 1) rk.pdf",
+    "Math 30-2/Chapter 1/Lesson 1 - Set Notation.md",
+    "Math 30-2/midline.md",
+    "images/Pasted image 20251209123452.png",
+    "Social 30-2/Unit 3/Chapter 7/1 Ch7 - Chapter 7 Notes Part 1.pdf",
+    "images/Pasted image 20251209123233.png",
+    "images/Pasted image 20251209122904.png",
+    "Pasted image 20251209122800.png",
+    "images/Pasted image 20251209122742.png",
+    "images/Pasted image 20251209122715.png",
+    "images/Pasted image 20251209122551.png",
+    "images/Pasted image 20251209121905.png",
+    "images/Pasted image 20251209121411.png",
+    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
+    "Social 30-2/Unit 3/Chapter 12/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
+    "images/Pasted image 20251208133949.png",
+    "Math 30-2/Chapter 1",
+    "Math 30-2/Chapter 4/Lesson 4 - Multiplying and dividing rational expressions.md",
+    "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
+    "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
+    "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
     "Social 30-2/Unit 3/Chapter 12/5 Part C_ Social Democracy in Sweden_Nordic.pdf",
     "Social 30-2/Unit 3/Chapter 7",
-    "Social 30-2/Unit 3/Chapter 12/1 Part A_ Modern Liberalism _ Mixed Economies.pdf",
     "Social 30-2/Unit 3/Chapter 12/1 U3 Part A Workbook.pdf",
     "Social 30-2/Unit 3/Chapter 12/3 Part B_ Austrian Economics.pdf",
-    "Pasted image 20251201134237.png",
     "Math 30-2/Chapter 4/Lesson 5 - Adding and Subtracting Rational Expressions.md",
-    "Social 30-2/Unit 4",
-    "Math 30-2/Chapter 4/Lesson 7 - Applications of Rational Equations.md",
-    "test",
-    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
-    "Social 30-2/Unit 3/Chapter 12/6 Part D_ Command Economies.pdf",
-    "images/2025-11-27_13-37.png",
     "Math 30-2/Chapter 4/Lesson 6 - Solving Rational Equations.md",
-    "Math 30-2/Chapter 4/Lesson 4 - Multiplying and dividing rational expressions.md",
-    "Math 30-2/Chapter 4/Lesson 3 - Simplifying Rational Expressions.md",
     "Social 30-2/vocabularies/Adam Smith.md",
-    "Social 30-2/Unit 3/Chapter 12/2025-11-18_14-12.png",
     "Social 30-2/Unit 2/Chapter 6/Chapter 6.md",
     "Social 30-2/Unit 2/Chapter 4/Chapter 4.md",
     "Math 30-2/Chapter 4/Lesson 2 - Equivelent Expressions & Non=permissible values (NPV's).md",
-    "Math 30-2/Chapter 4/Lesson 1 - Factoring review.md",
     "Math 30-2/Chapter 7/Lesson 4 - Laws of Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 5 - Applications of Logarithmic Functions.md",
     "Math 30-2/Chapter 6/Lesson 3 - Review of Exponent Laws.md",
     "Math 30-2/Chapter 7/Lesson 3 - Evaluating Logarithmic Expressions & Solving Exponential Equations Using Logarithms.md",
     "Math 30-2/Chapter 7/Lesson 2 - Logarithmic Regression.md",
     "Math 30-2/Chapter 7/Lesson 1 - Characteristics of Logarithmic Functions.md",
-    "Math 30-2/midline.md",
-    "images/Pasted image 20251104193827.png",
     "Math 30-2/Chapter 5/5.3/Chapter 5.3.md",
     "Untitled.canvas",
     "Social 30-2/Unit 2/Chapter 5/Chapter 5B - The responses to classical liberalism.md",
     "Math 30-2/Chapter 5/vocabulary/Vocabularies.md",
     "Math 30-2/Chapter 5/vocabulary/Leading Coefficient.md",
-    "images/Pasted image 20251030134527.png",
-    "images/Pasted image 20251030134519.png",
-    "images/Pasted image 20251030134344.png",
-    "images/Pasted image 20251030134332.png",
-    "images/Pasted image 20251030134025.png",
-    "Math 30-2/Chapter 8/Lesson 5 - Sinusodial regressions.md",
-    "Lesson 4 -.md",
-    "images/Pasted image 20251030125933.png",
     "Math 30-2/Chapter 5/5.3/Untitled.canvas"
   ]
 }
