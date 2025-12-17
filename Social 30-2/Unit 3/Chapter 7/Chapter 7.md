@@ -1,7 +1,7 @@
 
 # Definitions
 ## Bolsheviks
-members of a wing of the Russian Social-democratic workers' party, led by Vladimir Lenin, which took control in the Russan Revolution of 1918 and which became the communist party of the soviet union
+members of a wing of the Russian Social-democratic workers' party, led by Vladimir Lenin, which took control in the Russian Revolution of 1918 and which became the communist party of the soviet union
 
 ## Communism 
 an ideology based on the belief that the oppressed working class must overcome its property-owning oppressors through revolution, so that together they can work towards becoming a classless society in which property is owned by the community and all people share in the production of goods and in the benefits of production (at which point, in theory, no government is needed)
@@ -45,9 +45,8 @@ subsistence agriculture occurs when farmers grow crops on smallholdings to meet 
 
 
 # Exploring Soviet Communism
-## 1. Understanding Communism (161-162) – Karl Marx is often called the Father of
-Communism because he explained the theory of communism. In 1948 Marx published a
-pamphlet entitled, The Communist Manifesto. In this pamphlet he explained the important
+## 1. Understanding Communism (161-162) – 
+Karl Marx is often called the Father of Communism because he explained the theory of communism. In 1948 Marx published a pamphlet entitled, The Communist Manifesto. In this pamphlet he explained the important
 ideas of communism. Using information in your text make a point form list of important
 beliefs of communism:
 * through revolution, people could move closer to a state of society called Communism
@@ -92,10 +91,10 @@ members of one radical group, the People's will, attempted to assassinate Czar A
 * 1800s - foreign investment in russia, late in the industrial revolution
 	* social and economic boom
 	* gap in distribution of wealth
-* 1898 - carxist thinkers form socialist democratic laboyr party (sdlp)
+* 1898 - marxist thinkers form socialist democratic labour party (sdlp)
 * barty banned, and members were exiled
 * kept their momentum by publishing illegal newspaper
-* members included ladimir lenin, leon trotsky, and joseph stalin
+* members included Vladimir Lenin, Leon Trotsky, and Joseph Stalin
 * despite the exile of socialist activists, unrest grew
 * Bloody Sunday:  
 	* In a 1905 march the workers led by Father Gapon. Previously Gapon had been part of a program known as police socialism which meant the police allowed protest activity to be led by hand picked moderates so that the workers could "blow off steam" without causing real trouble. When this program ended Father Gapon had formed a group known as the Assembly of Russian Workers.  
@@ -305,7 +304,7 @@ the belief where society improves through selective breeding or genocide
 * jews banned from most jobs
 * all jews are detained and sent to concentration camps
 
-## 17. What were the consquences of fascism? How many people were killed during WW2 and the Holocaust combined?
+## 17. What were the consequences of fascism? How many people were killed during WW2 and the Holocaust combined?
 
 Ethnic cleansing surfaced and wars began
 13 million people died in total
