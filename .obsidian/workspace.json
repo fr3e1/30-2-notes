@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Social 30-2/Unit 3/Chapter 7/Chapter 7.md",
+                "file": "Social 30-2/Unit 4/Chapter 8/Chapter 8.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7"
+              "title": "Chapter 8"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "46a2886002563bee",
@@ -166,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,8 +186,8 @@
   },
   "active": "c54c855da021111a",
   "lastOpenFiles": [
-    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
     "Social 30-2/Unit 3/Chapter 7/Chapter 7.md",
+    "Social 30-2/Unit 3/Chapter 12/Chapter 12.md",
     "Social 30-2/Unit 3/study guide.md",
     "Social 30-2/Unit 4/Chapter 8/1 SS 30-2 Unit 4_ The Cold War Workbook.pdf",
     "Social 30-2/Unit 4/Chapter 8/2 Chapter 8 Notes Part 2.pdf",
